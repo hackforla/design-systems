@@ -6,9 +6,14 @@ function App() {
   return (
     <div className="App">
       <h1>All about that Button!</h1>
-      <Button children={'Hello'} />
-      <Button>World</Button>
-      <Button disabled={true} children={'OOOLALA'} />
+      <Button onClick={console.log} children={'Hello'} />
+      <Button onClick={console.log}>World</Button>
+      <Button
+        onClick={console.log}
+        disabled={true}
+        children={'OOOLALA'}
+        color={'secondary'}
+      />
     </div>
   );
 }
