@@ -1,10 +1,13 @@
 import React, { FC } from 'react';
 import styled from 'styled-components';
 
-// TODO: 1. create dictionary for colors, size - done.
-// TODO: 2. add styles for different states.
-// TODO: stretch goal: pressed & focused, dependency: current figma design has conflicts
-// TODO: ask ui people for design tokens
+// TODO: discussion:
+// 1. variant dictionary for colors
+// 2. colors from theme.ts
+// 3. switch statment for two types of button variants
+// 4. research on best practice for variants for styled-components and Typescript
+// TODO: dependency: current figma design has conflicts hover pressed & focused
+// TODO: ask ui people for design tokens for colors, etc... for naming convenience
 
 const VARIANTS = {
   // theme? object for primary && secondary
@@ -43,7 +46,7 @@ const SIZES = {
   },
 };
 
-// TODO: styling
+// TODO: 1. styling secondary, text color, border color, background color
 const StyledButton = styled.button<Omit<ButtonProps, 'onClick' | 'children'>>`
   font-family: 'Roboto', sans-serif;
   font-size: ${(props) => SIZES[props.size || 'sm'].fontSize};
