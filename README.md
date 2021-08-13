@@ -1,17 +1,15 @@
 # Project title and description
 
-Include a project description that explains **what** your project is and **why** it exists. Aim for no more than 3-5 concise sentences. For example, you might say:
-
-{Project Name} is a project of Hack for LA. Hack for LA is a brigade of a Code for America that exists to {your mission}. {Project Name} helps {target users} accomplish {goal of project}. The {app/site/thing you're building}'s main features include {very brief feature descriptions}.
+The Design System initiative seeks  to empower volunteers with the tools, documentation and templates for creating and maintaining a design system for their HfLA projects.  As Hack for LA continues to scale it has become more essential to create consistent documentation and standards for deliverables. 
 
 ### Project context
 
-Civic projects often exist within a larger context that may include multiple stakeholders, historic relationships, associated research, or other details that are relevant but not *required* for direct contributions. Gathering these details in one place is useful, but the ReadMe isn't that place. Use this section to [link to a Google Doc](#) or other documentation repository where contributors can dig in if they so choose. This is also a good place to link to your Code of Conduct.
+For more information on the project development, refer to: Design Systems Project One Sheet. You can also read more about our project on our [Wiki.](https://github.com/hackforla/design-systems/wiki)
 
 ### Technology used
 
-- Each platform or framework should get its own bullet.
-- Each platform should include an [active link](#) to the official documentation.
+- GitHub: [Design Systems project board](https://github.com/hackforla/design-systems/projects/1)
+- Slack: [Design-System](https://hackforla.slack.com/archives/CH2U1CB9Q)
 
 
 
@@ -63,8 +61,11 @@ To create a new issue, please use the blank issue template (available when you c
 
 # Contact info
 
-Include at least one way (or more, if possible) to reach your team with questions or comments.
-
+-  To join the team, contact the Product Manager, [Hana Stevenson](https://hackforla.slack.com/team/U01KDATDLLQ), on our HfLA Slack and ask if there are any available volunteer opportunities. If there are no open roles please add yourself to the 'People wanting to join the project' [team roster](https://docs.google.com/spreadsheets/d/1Y65x1bC8tys80Xf7VjC0dVK7kQshlHwbLm6JpvNcMcI/edit#gid=1806338047) 
+-  The entire team has a weekly meeting on Monday's 6:30pm - 7:30pm PST via Zoom
+-  The Research team within this project meet on Thursday's 11:00am - 11:44am PST via Zoom
+-  The UX/UI team within this project meet on Wednesday's 7:30pm - 8:30pm PST via Zoom
+-  The Developement team within this project do not have a fixed day of the week. Together team decided on a day.
 
 ### Licensing
 
