@@ -12,18 +12,14 @@ For more information on the project development, refer to: Design Systems Projec
 - Slack: [Design-System](https://hackforla.slack.com/archives/CH2U1CB9Q)
 
 
-
 # How to contribute
 
-Explain the different ways people can contribute. For example:
+To join the team, contact the Product Manager, [Hana Stevenson](https://hackforla.slack.com/archives/DJ32EQPSL), on our HfLA Slack and ask if there are any available volunteer opportunities. If there are no open roles please add yourself to the 'People wanting to join the project' [team roster](https://docs.google.com/spreadsheets/d/1Y65x1bC8tys80Xf7VjC0dVK7kQshlHwbLm6JpvNcMcI/edit#gid=1806338047) 
 
-- Join the team {on Slack/at our weekly hack night/etc}.
-- To help with user research, {do ABC}.
-- To provide design support, {do XYZ}.
-- To contribute to the code, follow the instructions below.
-
-Remember to provide direct links to each channel.
-
+-  The entire team has a weekly meeting on Monday's 6:30pm - 7:30pm PST via Zoom
+-  The Research team within this project meet on Thursday's 11:00am - 11:44am PST via Zoom
+-  The UX/UI team within this project meet on Wednesday's 7:30pm - 8:30pm PST via Zoom
+-  The Developement team within this project do not have a fixed day of the week. Together team decided on a day. 
 
 
 ## Installation instructions
@@ -58,14 +54,11 @@ To create a new issue, please use the blank issue template (available when you c
 - Provide instructions.
 
 
-
 # Contact info
 
--  To join the team, contact the Product Manager, [Hana Stevenson](https://hackforla.slack.com/team/U01KDATDLLQ), on our HfLA Slack and ask if there are any available volunteer opportunities. If there are no open roles please add yourself to the 'People wanting to join the project' [team roster](https://docs.google.com/spreadsheets/d/1Y65x1bC8tys80Xf7VjC0dVK7kQshlHwbLm6JpvNcMcI/edit#gid=1806338047) 
--  The entire team has a weekly meeting on Monday's 6:30pm - 7:30pm PST via Zoom
--  The Research team within this project meet on Thursday's 11:00am - 11:44am PST via Zoom
--  The UX/UI team within this project meet on Wednesday's 7:30pm - 8:30pm PST via Zoom
--  The Developement team within this project do not have a fixed day of the week. Together team decided on a day.
+ Product Manager - [Hana Stevenson](https://hackforla.slack.com/archives/DJ32EQPSL), on our HfLA Slack.
+
+
 
 ### Licensing
 
