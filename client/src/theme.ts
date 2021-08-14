@@ -18,6 +18,7 @@ const color = {
   ceruleanBlue: '#2952CC',
   persianBlue: '#1F3D99',
   lavenderBlue: '#D6E0FF',
+  prussianBlue: '#011D66',
 };
 
 export default color;

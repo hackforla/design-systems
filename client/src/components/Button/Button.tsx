@@ -12,57 +12,95 @@ import styled from 'styled-components';
 const VARIANTS = {
   // theme? object for primary && secondary
   primary: {
-    color: '#2196F3',
-    backgroundColor: '#3366FF',
-    borderColor: '#3366FF',
-    hoverBackgroundColor: '#',
-    // pressedBackgroundColor: '#',
-    // focusedBackgroundColor: '#',
-    disabledBackgroundColor: '#D6E0FF',
+    textColor: '#FFFFFF',
+    backgroundColor: '#003EDF',
+    hoverBackgroundColor: '#00278C',
+    activeBackgroundColor: '#011D66',
+    focusedBorderColor: '#E5E5E5',
+    focusedBackgroundColor: '#00278C',
+    disabledBackgroundColor: '#BEC5D1',
   },
   secondary: {
-    color: '#2196F3',
+    textColor: '#003EDF',
     backgroundColor: '#FFFFFF',
     borderColor: '#003EDF',
     hoverBackgroundColor: '#DFE8FF',
-    // pressedBackgroundColor: '#',
-    // focusedBackgroundColor: '#',
-    disabledBackgroundColor: '',
+    activeBackgroundColor: '#D1DCFA',
+    focusedBackgroundColor: '#DFE8FF',
+    focusedBorderColor: '#E5E5E5',
+    disabledTextColor: '#BEC5D1',
+    disabledBackgroundColor: '#FFFFFF',
   },
 };
 
 const SIZES = {
-  sm: {
-    fontSize: '16px',
-    padding: '.75em 2.05em',
-  },
-  md: {
-    fontSize: '20px',
-    padding: '.85em 2.5em',
-  },
-  lg: {
-    fontSize: '24px',
-    padding: '.85em 2.5em',
-  },
+  sm: '16px',
+  md: '20px',
+  lg: '24px',
 };
 
 // TODO: 1. styling secondary, text color, border color, background color
 const StyledButton = styled.button<Omit<ButtonProps, 'onClick' | 'children'>>`
   font-family: 'Roboto', sans-serif;
-  font-size: ${(props) => SIZES[props.size || 'sm'].fontSize};
+  font-size: ${(props) => SIZES[props.size || 'sm']};
   margin: 20px;
-  color: #ffffff;
+  color: ${(props) => VARIANTS[props.variant || 'primary'].textColor};
   background-color: ${(props) =>
     VARIANTS[props.variant || 'primary'].backgroundColor};
   border: 2px solid
-    ${(props) => VARIANTS[props.variant || 'primary'].borderColor};
+    ${(props) =>
+      props.variant
+        ? VARIANTS['primary'].backgroundColor
+        : VARIANTS['secondary'].textColor};
   border-radius: 100px;
-  padding: ${(props) => SIZES[props.size || 'sm'].padding};
+  padding: 0.85em 2.5em;
+  :focus {
+    outline: none;
+    border-radius: 100px;
+    background-color: ${(props) =>
+      VARIANTS[props.variant || 'primary'].focusedBackgroundColor};
+    border: 2px solid
+      ${(props) =>
+        props.variant
+          ? VARIANTS['primary'].focusedBorderColor
+          : VARIANTS['secondary'].textColor};
+  }
+  :focus-visible {
+    border-radius: 100px;
+    border: 0.5px solid
+      ${(props) =>
+        props.variant
+          ? VARIANTS['primary'].focusedBackgroundColor
+          : VARIANTS['secondary'].textColor};
+  }
+  :active,
+  :visited {
+    background-color: ${(props) =>
+      VARIANTS[props.variant || 'primary'].activeBackgroundColor};
+    border: 2px solid
+      ${(props) =>
+        props.variant === 'primary'
+          ? VARIANTS['primary'].activeBackgroundColor
+          : VARIANTS['secondary'].textColor};
+  }
 
-  &:disabled {
+  :hover {
+    background-color: ${(props) =>
+      VARIANTS[props.variant || 'primary'].hoverBackgroundColor};
+    border: 2px solid
+      ${(props) =>
+        props.variant === 'primary'
+          ? VARIANTS['primary'].hoverBackgroundColor
+          : VARIANTS['secondary'].textColor};
+  }
+  :disabled {
     background-color: ${(props) =>
       VARIANTS[props.variant || 'primary'].disabledBackgroundColor};
-    border: none;
+    border: 2px solid
+      ${(props) =>
+        props.variant === 'primary'
+          ? VARIANTS['primary'].disabledBackgroundColor
+          : VARIANTS['secondary'].disabledTextColor};
   }
 `;
 
