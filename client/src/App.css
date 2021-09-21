@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+/* 
+button:focus {
+  border-radius: 100px;
+  border: 3px solid hsl(220, 17%, 78%);
+}
+
+button:disabled {
+  background-color: hsl(220, 17%, 78%);
+} */

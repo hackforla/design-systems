@@ -11,18 +11,16 @@ For more information on the project development, refer to: Design Systems Projec
 - GitHub: [Design Systems project board](https://github.com/hackforla/design-systems/projects/1)
 - Slack: [Design-System](https://hackforla.slack.com/archives/CH2U1CB9Q)
 
-
 # How to join the team
 
 Please view the [Wiki](https://github.com/hackforla/design-systems/wiki)
 
 # Contact info
 
- Product Manager - [Hana Stevenson](https://hackforla.slack.com/archives/DJ32EQPSL), on our HfLA Slack.
-
-
+Product Manager - [Hana Stevenson](https://hackforla.slack.com/archives/DJ32EQPSL), on our HfLA Slack.
 
 ### Licensing
+
 GNU General Public License v2.0
 
-*this readme file sourced from [Jessica Sand](http://jessicasand.com/other-stuff/just-enough-docs/)*
+_this readme file sourced from [Jessica Sand](http://jessicasand.com/other-stuff/just-enough-docs/)_
