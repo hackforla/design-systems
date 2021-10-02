@@ -6,11 +6,9 @@ import styled from 'styled-components';
 // 2. colors from theme.ts
 // 3. switch statment for two types of button variants
 // 4. research on best practice for variants for styled-components and Typescript
-// TODO: dependency: current figma design has conflicts hover pressed & focused
-// TODO: ask ui people for design tokens for colors, etc... for naming convenience
 
 const VARIANTS = {
-  // theme? object for primary && secondary
+  // use object for primary && secondary
   primary: {
     textColor: '#FFFFFF',
     backgroundColor: '#003EDF',
@@ -18,6 +16,7 @@ const VARIANTS = {
     activeBackgroundColor: '#011D66',
     focusedBorderColor: '#E5E5E5',
     focusedBackgroundColor: '#00278C',
+    disabledTextColor: '#FFFFFF',
     disabledBackgroundColor: '#BEC5D1',
   },
   secondary: {
@@ -39,7 +38,6 @@ const SIZES = {
   lg: '24px',
 };
 
-// TODO: 1. styling secondary, text color, border color, background color
 const StyledButton = styled.button<Omit<ButtonProps, 'onClick' | 'children'>>`
   font-family: 'Roboto', sans-serif;
   font-size: ${(props) => SIZES[props.size || 'sm']};
@@ -49,7 +47,7 @@ const StyledButton = styled.button<Omit<ButtonProps, 'onClick' | 'children'>>`
     VARIANTS[props.variant || 'primary'].backgroundColor};
   border: 2px solid
     ${(props) =>
-      props.variant
+      props.variant === 'primary'
         ? VARIANTS['primary'].backgroundColor
         : VARIANTS['secondary'].textColor};
   border-radius: 100px;
@@ -61,7 +59,7 @@ const StyledButton = styled.button<Omit<ButtonProps, 'onClick' | 'children'>>`
       VARIANTS[props.variant || 'primary'].focusedBackgroundColor};
     border: 2px solid
       ${(props) =>
-        props.variant
+        props.variant === 'primary'
           ? VARIANTS['primary'].focusedBorderColor
           : VARIANTS['secondary'].textColor};
   }
@@ -69,7 +67,7 @@ const StyledButton = styled.button<Omit<ButtonProps, 'onClick' | 'children'>>`
     border-radius: 100px;
     border: 0.5px solid
       ${(props) =>
-        props.variant
+        props.variant === 'primary'
           ? VARIANTS['primary'].focusedBackgroundColor
           : VARIANTS['secondary'].textColor};
   }
@@ -94,6 +92,7 @@ const StyledButton = styled.button<Omit<ButtonProps, 'onClick' | 'children'>>`
           : VARIANTS['secondary'].textColor};
   }
   :disabled {
+    color: ${(props) => VARIANTS[props.variant || 'primary'].disabledTextColor};
     background-color: ${(props) =>
       VARIANTS[props.variant || 'primary'].disabledBackgroundColor};
     border: 2px solid
