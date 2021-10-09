@@ -1,0 +1,1 @@
+{"name":"fractal","version":"0.1.0","dependencies":{"@frctl/fractal":"^1.5.11"},"scripts":{"fractal:start":"fractal start --sync","fractal:build":"fractal build"}}
