@@ -1,0 +1,32 @@
+{
+  "name": "design-systems",
+  "version": "1.0.0",
+  "description": "The Design System initiative seeks  to empower volunteers with the tools, documentation and templates for creating and maintaining a design system for their HfLA projects.  As Hack for LA continues to scale it has become more essential to create consistent documentation and standards for deliverables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pl:build": "patternlab build --config ./patternlab-config.json",
+    "pl:help": "patternlab --help",
+    "pl:install": "patternlab install --config ./patternlab-config.json",
+    "pl:serve": "patternlab serve --config ./patternlab-config.json",
+    "pl:version": "patternlab --version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackforla/design-systems.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackforla/design-systems/issues"
+  },
+  "homepage": "https://github.com/hackforla/design-systems#readme",
+  "dependencies": {
+    "@pattern-lab/cli": "^5.15.0",
+    "@pattern-lab/core": "^5.15.0",
+    "@pattern-lab/engine-handlebars": "^5.14.3",
+    "@pattern-lab/starterkit-handlebars-demo": "^5.14.1",
+    "@pattern-lab/uikit-workshop": "^5.15.0"
+  }
+}

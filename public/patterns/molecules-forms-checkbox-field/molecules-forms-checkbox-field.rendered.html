@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html class="">
+	<head>
+		<title>Soul Soles</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width" />
+
+		<link rel="stylesheet" href="../../css/style.css?1633749700689" media="all" />
+		<link rel="stylesheet" href="../../css/pattern-scaffolding.css?1633749700689" media="all" />
+		<link href="https://fonts.googleapis.com/css?family=Abel|Raleway:400,400i,700" rel="stylesheet">
+
+		<!--<Deject>-->
+		<!-- Begin Pattern Lab (Required for Pattern Lab to run properly) -->
+		
+		<!-- End Pattern Lab -->
+		<!--</Deject>-->
+
+	</head>
+	<body class="">
+<div class="c-field c-field--checkbox ">
+
+	<h4 for="" class="c-field__label">Label</h4>
+
+    <div class="c-field__body">
+
+        <ul class="c-option-list">
+
+            <li class="c-option-list__item">
+
+                <label class="c-input-group" for="check-1">
+                    <input id="check-1" type="checkbox" name="checkname" value="" class="c-input-group__control js-checkbox-trigger" checked  >
+                    <span class="c-input-group__text">Option 1</span>
+                </label>
+
+            </li><!-- end c-checkbox-list__item -->
+            <li class="c-option-list__item">
+
+                <label class="c-input-group" for="check-2">
+                    <input id="check-2" type="checkbox" name="checkname" value="" class="c-input-group__control js-checkbox-trigger"   >
+                    <span class="c-input-group__text">Option 2</span>
+                </label>
+
+            </li><!-- end c-checkbox-list__item -->
+
+        </ul><!-- end c-option-list -->
+
+    </div><!-- end c-field__body -->
+
+    <div class="c-field__note">This is a note about the field</div>
+
+</div><!--end c-field-->
+        <!--<Deject>-->
+        <!--DO NOT REMOVE-->
+        <script type="text/json" id="pl-pattern-data-footer" class="pl-js-pattern-data">
+  {"cssEnabled":false,"patternLineageExists":false,"patternLineages":[],"lineage":[],"patternLineageRExists":true,"patternLineagesR":[{"lineagePattern":"organisms-form","lineagePath":"../../patterns/organisms-forms-form/organisms-forms-form.rendered.html"}],"lineageR":[{"lineagePattern":"organisms-form","lineagePath":"../../patterns/organisms-forms-form/organisms-forms-form.rendered.html"}],"patternLineageEExists":true,"patternDesc":"","patternBreadcrumb":{"patternGroup":"molecules","patternSubgroup":"forms"},"patternExtension":"hbs","patternName":"Checkbox Field","patternPartial":"molecules-checkbox-field","patternState":"","patternEngineName":"handlebars","extraOutput":{}}
+</script>
+
+<script>
+  window.patternData = {"cssEnabled":false,"patternLineageExists":false,"patternLineages":[],"lineage":[],"patternLineageRExists":true,"patternLineagesR":[{"lineagePattern":"organisms-form","lineagePath":"../../patterns/organisms-forms-form/organisms-forms-form.rendered.html"}],"lineageR":[{"lineagePattern":"organisms-form","lineagePath":"../../patterns/organisms-forms-form/organisms-forms-form.rendered.html"}],"patternLineageEExists":true,"patternDesc":"","patternBreadcrumb":{"patternGroup":"molecules","patternSubgroup":"forms"},"patternExtension":"hbs","patternName":"Checkbox Field","patternPartial":"molecules-checkbox-field","patternState":"","patternEngineName":"handlebars","extraOutput":{}};
+</script>
+
+<script>
+  /*!
+   * scriptLoader - v0.1
+   *
+   * Copyright (c) 2014 Dave Olsen, http://dmolsen.com
+   * Licensed under the MIT license
+   *
+   */
+
+  var scriptLoader = {
+
+    run: function(js,cb,target) {
+      var s  = document.getElementById(target+'-'+cb);
+      for (var i = 0; i < js.length; i++) {
+        var src = (typeof js[i] != 'string') ? js[i].src : js[i];
+        var c   = document.createElement('script');
+        c.src   = '../../'+src+'?'+cb;
+        if (typeof js[i] != 'string') {
+          if (js[i].dep !== undefined) {
+            c.onload = function(dep,cb,target) {
+              return function() {
+                scriptLoader.run(dep,cb,target);
+              }
+            }(js[i].dep,cb,target);
+          }
+        }
+        s.parentNode.insertBefore(c,s);
+      }
+    }
+
+  }
+</script>
+
+<script id="pl-js-polyfill-insert-1633749700689">
+  (function() {
+    if (self != top) {
+      var cb = '1633749700689';
+      var js = [];
+      scriptLoader.run(js,cb,'pl-js-polyfill-insert');
+    }
+  })();
+</script>
+
+
+<script type="module">
+  // always load Pattern-specific JS so UI like accordions, etc can continue to work even when viewed as a standalone HTML page
+  import('../../styleguide/js/patternlab-pattern.modern.js');
+</script>
+
+<script id="pl-js-insert-1633749700689" nomodule>
+  /*! loadJS: load a JS file asynchronously. [c]2014 @scottjehl, Filament Group, Inc. (Based on http://goo.gl/REQGQ by Paul Irish). Licensed MIT */
+  !function(e){var t=function(t,n){"use strict";var o=e.document.getElementsByTagName("script")[0],r=e.document.createElement("script");return r.src=t,r.async=!0,o.parentNode.insertBefore(r,o),n&&"function"==typeof n&&(r.onload=n),r};"undefined"!=typeof module?module.exports=t:e.loadJS=t}("undefined"!=typeof global?global:this);
+
+  // always load Pattern-specific JS so UI like accordions, etc can continue to work even when viewed as a standalone HTML page
+  loadJS('../../styleguide/js/patternlab-pattern.js');
+</script>
+
+        <!--</Deject>-->
+
+    </body>
+
+</html>
