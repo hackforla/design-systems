@@ -1,0 +1,36 @@
+.page {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+}
+a {
+  text-decoration: none;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-column-gap: 2rem;
+  grid-row-gap: 3rem;
+  align-items: center;
+}
+
+.texts {
+  margin-bottom: 2rem;
+}
+
+.h1 {
+  font-size: var(--bit-h-xl);
+}
+
+.h2 {
+  font-size: var(--bit-h-sm);
+  margin-top: 4rem;
+}

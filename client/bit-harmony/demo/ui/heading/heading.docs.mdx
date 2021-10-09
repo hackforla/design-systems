@@ -1,0 +1,26 @@
+---
+description: 'Renders a heading with customizable element prop'
+labels: ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']
+---
+
+import { Heading } from './heading';
+
+## Heading
+
+A heading component that renders a different heading element depending on what you pass into it. It also renders a text for the Heading.
+
+### Component usage
+
+```js
+<Heading element="h2">heading</Heading>
+```
+
+### Live Playground
+
+Modify the text to see it change live:
+
+```js live
+<Heading element="h2">
+  heading<div>more heading</div>
+</Heading>
+```

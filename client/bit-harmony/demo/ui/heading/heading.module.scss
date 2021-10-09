@@ -1,0 +1,30 @@
+.heading {
+  font-weight: 700;
+  .xxs {
+    font-size: var(--h-xxs, 18px);
+  }
+
+  .xs {
+    font-size: var(--h-xs, 24px);
+  }
+
+  .sm {
+    font-size: var(--h-sm, 36px);
+  }
+
+  .md {
+    font-size: var(--h-md, 40px);
+  }
+
+  .lg {
+    font-size: var(--h-lg, 50px);
+  }
+
+  .xl {
+    font-size: var(--h-xl, 60px);
+  }
+
+  .xxl {
+    font-size: var(--h-xxl, 80px);
+  }
+}

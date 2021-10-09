@@ -1,0 +1,28 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--bit-background-color);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  box-shadow: var(--bit-shadow-raised-low);
+  overflow: hidden;
+  &:hover {
+    background-color: var(--bit-bg-dent);
+  }
+}
+
+.heading {
+  color: var(--bit-accent-color);
+  font-size: var(--bit-h-xs);
+  margin-top: 15px;
+}
+.text {
+  color: var(--bit-text-color);
+  font-size: var(--bit-p-sm);
+}
+.copy-box {
+  margin-bottom: 15px;
+  &:hover {
+    background-color: #fff;
+  }
+}
