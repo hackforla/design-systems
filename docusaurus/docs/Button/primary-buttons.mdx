@@ -1,0 +1,39 @@
+---
+sidebar_position: 1
+---
+
+# Primary Buttons
+
+```tsx title="src/components/Button.tsx"
+<div>
+  <h1>Primary Buttons</h1>
+  <div>
+    <h2>Enabled</h2>
+    <Button onClick={console.log} children={"Hello"} />
+    <Button onClick={console.log} children={"Medium"} size={"md"} />
+    <Button onClick={console.log} children={"Large"} size={"lg"} />
+  </div>
+  <div>
+    <h3>Hover | Pressed | Focused </h3>
+    <Button onClick={console.log} children={"Hello"} />
+    <Button onClick={console.log} children={"Medium"} size={"md"} />
+    <Button onClick={console.log} children={"Large"} size={"lg"} />
+  </div>
+  <div>
+    <h2>Disabled</h2>
+    <Button onClick={console.log} children={"Hello"} disabled={true} />
+    <Button
+      onClick={console.log}
+      children={"Medium"}
+      size={"md"}
+      disabled={true}
+    />
+    <Button
+      onClick={console.log}
+      children={"Large"}
+      size={"lg"}
+      disabled={true}
+    />
+  </div>
+</div>
+```
