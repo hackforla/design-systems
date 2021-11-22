@@ -10,6 +10,7 @@ For more information on the project development, refer to: Design Systems Projec
 
 - GitHub: [Design Systems project board](https://github.com/hackforla/design-systems/projects/1)
 - Slack: [Design-System](https://hackforla.slack.com/archives/CH2U1CB9Q)
+- Figma: [Design-System](https://www.figma.com/files/project/39879901/Team-project?fuid=865434236598798678)
 
 # How to join the team
 
