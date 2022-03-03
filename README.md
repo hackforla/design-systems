@@ -18,7 +18,7 @@ Please view the [Wiki](https://github.com/hackforla/design-systems/wiki)
 
 # Contact info
 
-Product Manager - [Hana Stevenson](https://hackforla.slack.com/archives/DJ32EQPSL), on our HfLA Slack.
+Product Manager - [Yasaman Roostaeian](https://www.linkedin.com/in/yasaman-roostaeian/), on our HfLA Slack.
 
 ### Licensing
 
