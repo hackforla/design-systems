@@ -7,7 +7,7 @@ For more information on the project and how to join, [refer to our wiki](https:/
 # Documentation and Links
 
 - [DS Wiki](https://github.com/hackforla/design-systems/wiki)
-- [GitHub project board](https://github.com/hackforla/design-systems/projects/1)
+- [Kanban board](https://github.com/hackforla/design-systems/projects/1)
 - [Figma project](https://www.figma.com/files/project/39879901/Team-project?fuid=865434236598798678)
 - [Slack channel](https://hackforla.slack.com/archives/CH2U1CB9Q)
 
