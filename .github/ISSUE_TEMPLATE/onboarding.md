@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-Copy the template below. Click the green "New Issue" button, and paste the template in.
-
 # Conduct and logistics 
 - [ ] Accept and abide by [our expectations](https://github.com/hackforla/design-systems/wiki/Getting-Started), including the HfLA code of conduct and norms
 - [ ] Be available for the [weekly meetings](https://github.com/hackforla/design-systems/wiki/Getting-Started)
