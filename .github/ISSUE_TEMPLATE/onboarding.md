@@ -22,7 +22,7 @@ assignees: ''
 - [ ] Read through [glossary of project terms](https://github.com/hackforla/design-systems/wiki/Glossary-of-project-terms) 
 - [ ] Read [How Hack for LA uses Kanban](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/edit)
 - [ ] Add the following to this issue:
-  - [ ] label "size 1 pt"
+  - [ ] label "size: 1 pt"
   - [ ] project "onboarding"
   - [ ] milestone "velocity"
   - [ ] assignee, you!
