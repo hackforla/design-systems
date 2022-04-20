@@ -1,6 +1,6 @@
 ---
-name: Figma Foundations usability test plan
-about: How to write a plan for the usability tests of the FF milestone.
+name: FF usability test plan
+about: How to write a plan for the usability tests of the Figma Foundations milestone.
 title: 'Plan the [section] usability test'
 labels: 'role: research, size: 1 pt'
 assignees: ''
