@@ -1,5 +1,5 @@
 ---
-name: FF usability facilitators & note-takers
+name: FF usability test facilitation and note-taking
 about: Checklist for being a facilitator or a note-taker of a Figma Foundations usability test session.
 title: 'Conduct the [section] usability test'
 labels: 'role: research, size: 1 pt'
