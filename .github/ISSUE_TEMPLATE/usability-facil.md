@@ -1,5 +1,5 @@
 ---
-name: Figma Foundations usability test: facilitating
+name: Figma Foundations usability test facilitator
 about: Checklist for being a facilitator of the usability test session.
 title: 'Conduct the [section] usability test'
 labels: 'role: research, size: 1 pt'
