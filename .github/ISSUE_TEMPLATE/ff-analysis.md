@@ -1,5 +1,5 @@
 ---
-name: FF usability facilitators & note-takers
+name: FF usability analysis
 about: Steps for analyzing the usability test recordings.
 title: 'Analyze the [section] usability test | Participant [#]'
 labels: 'role: research, size: 1 pt'
