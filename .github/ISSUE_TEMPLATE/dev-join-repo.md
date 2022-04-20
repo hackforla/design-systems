@@ -15,6 +15,7 @@ We encourage new developers to fork our repo to contribute. Developers developed
 * Push that commit(s) to your online GitHub fork.
 * From the `hackforla` repository, create a Pull Request which asks `hackforla` to pull changes from your fork into the main repository.
 * After the owner of the `hackforla` repository approves and merges your Pull Request, your changes will be live on the website. 
+* [Github Guides](https://guides.github.com/) 
 
 - [ ] Become a member of the repository Team
   - [ ] In the `design-systems` slack channel, request being added to the GitHub repository team and include your GitHub name. 
@@ -36,6 +37,3 @@ We encourage new developers to fork our repo to contribute. Developers developed
     - [ ] Add another remote called `upstream` that points to the `hackforla` version of the repository. This will allow you to incorporate changes later: ```git remote add upstream https://github.com/hackforla/design-systems.git```
 - [ ] Setup Developer Environment
   - [ ] change your current directory to client to install all the dependencies ```cd design-system/client``` ```npm install``` You should be ready to work on issue from this point onward. If more assistance needed, feel free to reach out to team lead or fellow engineers.
-
-## Useful Links
-- [Github Guides](https://guides.github.com/) 
