@@ -4,11 +4,10 @@ about: How to write a plan for the usability tests of the FF milestone.
 title: 'Plan the [section] usability test'
 labels: 'role: research, size: 1 pt'
 assignees: ''
-milestone: 'Figma Foundations'
 
 ---
 ## Documentation
-- [ ] Choose the label "feature: [section]"
+- [ ] Choose the labels "role: research," "size: 1 pt," and "feature: [section]"
 - [ ] Choose the milestone "Figma Foundations"
 - [ ] Choose the project "Project Management"
 
