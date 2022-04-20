@@ -1,6 +1,6 @@
 ---
 name: Onboarding onto the Design Systems Team
-about: New volunteers, start here!
+about: New volunteers, start here! Click "Get started" and "Submit new issue" – that's it!
 title: '[VOLUNTEER NAME] onboarding'
 labels: 'size: 1 pt'
 assignees: ''
