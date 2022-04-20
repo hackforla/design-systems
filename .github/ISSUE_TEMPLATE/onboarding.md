@@ -45,7 +45,7 @@ _If you get stuck at any point, send a message in our #design-systems Slack chan
 If your role is one of the following, complete the tasks for that role.
 
 ### Role: Design 
-- [ ] Follow the [experience profile guide](https://docs.google.com/presentation/d/1YK7HAiW8-XPI57G8LfY2dgjxN7JknTE0262mhcvhLhQ/edit#slide=id.p) to create an experience profile on the [experience board](https://github.com/hackforla/UI-UX/projects/5) HfLA has created an experience profile so that members can use it to track their courses at Hack for LA. It also helps the team leads to identify what skills you have not completed during your time at HfLA. The profile is a template for all UX/UI/Researchers therefore not all skills are applicable. 
+- [ ] Follow the [experience profile guide](https://docs.google.com/presentation/d/1YK7HAiW8-XPI57G8LfY2dgjxN7JknTE0262mhcvhLhQ/edit#slide=id.p) to create an experience profile on the [experience board](https://github.com/hackforla/UI-UX/projects/5). As you learn new research or design skills, you can use the profile to track your progress.
   - [ ] Add profile link as a comment on this issue
 - [ ] Read the [history of the UX/UI work](https://github.com/hackforla/design-systems/wiki/UX-UI-Project-History)
 - [ ] For a comprehensive overview of each part of a design system, please view [HflA’s Design System Guide for Designers](https://docs.google.com/document/d/14BZYFEa5s5FESeASNorEDLH6zEW0LTYcpD1NVyE66iM/edit)
@@ -53,7 +53,7 @@ If your role is one of the following, complete the tasks for that role.
 - [ ] Review [this Figma file](https://www.figma.com/file/mmvbxZ6lctjQneEeqTjC8O/UX%2FUI-Discovery-FigJam?node-id=0%3A1) to further understand Stage 2A (outlined in history of UX/UI work) of project
 - [ ] Watch [Figma's tutorials](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma) on using Figma. There are other helpful tutorials on Youtube made by independent creators. 
 ### Role: Research 
-- [ ] Follow the [experience profile guide](https://docs.google.com/presentation/d/1YK7HAiW8-XPI57G8LfY2dgjxN7JknTE0262mhcvhLhQ/edit#slide=id.p) to create an experience profile on the [experience board](https://github.com/hackforla/UI-UX/projects/5) HfLA has created an experience profile so that members can use it to track their courses at Hack for LA. It also helps the team leads to identify what skills you have not completed during your time at HfLA. The profile is a template for all UX/UI/Researchers therefore not all skills are applicable. 
+- [ ] Follow the [experience profile guide](https://docs.google.com/presentation/d/1YK7HAiW8-XPI57G8LfY2dgjxN7JknTE0262mhcvhLhQ/edit#slide=id.p) to create an experience profile on the [experience board](https://github.com/hackforla/UI-UX/projects/5). As you learn new research or design skills, you can use the profile to track your progress.
   - [ ] Add profile link as a comment on this issue
 - [ ] Read the [Research Plan](https://docs.google.com/document/d/1peRWmKWLpYEjqtlszfqmSSpsPm95qagnsFCJdiyereo/edit#)
 - [ ] Review the [recruiting process](https://docs.google.com/document/d/1wjpJCL7FsG2ly-u0eusIt3OR1b-tsc2zPZqSHFgZOFk) we use for the interview study
