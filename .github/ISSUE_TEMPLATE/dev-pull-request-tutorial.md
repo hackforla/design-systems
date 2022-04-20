@@ -15,6 +15,8 @@ We encourage new developers to fork our repo to contribute. Developers developed
 * Push that commit(s) to your online GitHub fork.
 * From the `hackforla` repository, create a Pull Request which asks `hackforla` to pull changes from your fork into the main repository.
 * After the owner of the `hackforla` repository approves and merges your Pull Request, your changes will be live on the website. 
+* [Github Guides](https://guides.github.com/) 
+
 
 ## Working on an issue and creating pull requests tutorial
 
