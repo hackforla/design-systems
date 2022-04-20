@@ -1,6 +1,6 @@
 ---
-name: Blank issue
-about: Make a blank issue, with some formatting included
+name: -New issue
+about: Create a new issue. Formatting included to get you started
 title: ''
 labels: ''
 assignees: ''
