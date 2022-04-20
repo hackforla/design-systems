@@ -9,6 +9,8 @@ milestone: 'Figma Foundations'
 ---
 ## Documentation
 - [ ] Choose the label "feature: [section]"
+- [ ] Choose the milestone "Figma Foundations"
+- [ ] Choose the project "Project Management"
 
 ## 1. Required readings
 
