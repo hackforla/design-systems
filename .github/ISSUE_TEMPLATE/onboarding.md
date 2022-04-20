@@ -14,7 +14,7 @@ _If you get stuck at any point, send a message in our #design-systems Slack chan
   - [ ] Be available for the [weekly meetings](https://github.com/hackforla/design-systems/wiki/Getting-Started)
   - [ ] Be able to contribute the [minimum number of hours a week](https://docs.google.com/presentation/d/127UC7q5JOgc5oPev4bbEdydchany-rVBkPRn4w6DMek/edit#slide=id.gc50dc3b32b_1_40)
 - [ ] [Onboard onto Hack for LA](https://www.hackforla.org/getting-started)
-- [ ] Introduce yourself on the [Design Systems Slack channel](https://hackforla.slack.com/archives/CH2U1CB9Q)
+- [ ] Introduce yourself on the [#design-systems Slack channel](https://hackforla.slack.com/archives/CH2U1CB9Q)
 - [ ] Get added to our [Google Drive](https://drive.google.com/drive/folders/1BE2bwPuBxKWtQPGw-Mn1pEvDGivawaRp?usp=sharing)
   - [ ] Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1Y65x1bC8tys80Xf7VjC0dVK7kQshlHwbLm6JpvNcMcI/edit#gid=1806338047).
   - [ ] Comment on this issue and @ mention the PM, confirming that you have added yourself to the roster
@@ -22,7 +22,7 @@ _If you get stuck at any point, send a message in our #design-systems Slack chan
 - [ ] Upload a profile picture to your Github account
 
 # Project management 101
-- [ ] Read through [glossary of project terms](https://github.com/hackforla/design-systems/wiki/Glossary-of-project-terms) 
+- [ ] Read [glossary of project terms](https://github.com/hackforla/design-systems/wiki/Glossary-of-project-terms) 
 - [ ] Read [How Hack for LA uses Kanban](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/edit)
 - [ ] Add the following to this issue:
   - [ ] **label:** "size: 1 pt"
@@ -38,7 +38,7 @@ _If you get stuck at any point, send a message in our #design-systems Slack chan
   - [ ] Comment your key learnings in the [Atlassian DS discussion thread](https://github.com/hackforla/design-systems/discussions/170)
 
 ### More educational resources 
-(These are optional, but will help deepen your understanding of design systems.)
+These are optional, but will help deepen your understanding of design systems.
 - [ ] [Invision's Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)
 - [ ] [Defining Design Systems](https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6) - 7 minute read
 - [ ] [Design Systems podcast](https://podcast.clearleft.com/season01/episode01/) (15 min)
