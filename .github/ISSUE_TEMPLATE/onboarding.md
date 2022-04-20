@@ -6,6 +6,7 @@ labels: 'size: 1 pt'
 assignees: ''
 
 ---
+_If you get stuck at any point, send a message in our #design-systems Slack channel with a link to this issue._
 # Conduct and logistics 
 - [ ] Accept and abide by [our expectations](https://github.com/hackforla/design-systems/wiki/Getting-Started), including the HfLA code of conduct and norms
 - [ ] Be available for the [weekly meetings](https://github.com/hackforla/design-systems/wiki/Getting-Started)
@@ -59,3 +60,6 @@ If your role is one of the following, complete the tasks for that role.
 - [ ] Review our [interview session procedures](https://docs.google.com/document/d/1VYCMj7JtDFvBtrs7hQKGdC0Jelkq07HYtwtlNWb-QSw/edit#)
 - [ ] Read about [how to affinity diagram](https://www.nngroup.com/articles/affinity-diagram/)
 - [ ] Read our [insights from the stakeholder interview](https://drive.google.com/drive/folders/1pUyX4rNLs0je5XZrcEdC-6n1YLQjONBb)
+
+# Once you've completed the above tasks
+- [ ] Comment on this issue and @ the PM or your team lead.
