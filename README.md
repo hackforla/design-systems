@@ -1,22 +1,16 @@
-# Hack for LA Design Systems
+# About Hack for LA Design Systems
 
 The Design System initiative seeks  to empower volunteers with the tools, documentation and templates for creating and maintaining a design system for their HfLA projects.  As Hack for LA continues to scale it has become more essential to create consistent documentation and standards for deliverables. 
 
-### Project context
+For more information on the project and how to join, [refer to our wiki](https://github.com/hackforla/design-systems/wiki).
 
-For more information on the project development, refer to: Design Systems Project One Sheet. You can also read more about our project on our [Wiki.](https://github.com/hackforla/design-systems/wiki)
+# DS Team Documentation and Links
 
-### Technology used
+- [GitHub project board](https://github.com/hackforla/design-systems/projects/1)
+- [Figma project](https://www.figma.com/files/project/39879901/Team-project?fuid=865434236598798678)
+- [Slack channel](https://hackforla.slack.com/archives/CH2U1CB9Q)
 
-- GitHub: [Design Systems project board](https://github.com/hackforla/design-systems/projects/1)
-- Slack: [Design-System](https://hackforla.slack.com/archives/CH2U1CB9Q)
-- Figma: [Design-System](https://www.figma.com/files/project/39879901/Team-project?fuid=865434236598798678)
-
-# How to join the team
-
-Please view the [Wiki](https://github.com/hackforla/design-systems/wiki)
-
-# Contact info
+# Contact
 
 Product Manager - [Yasaman Roostaeian](https://www.linkedin.com/in/yasaman-roostaeian/), on our HfLA Slack.
 
