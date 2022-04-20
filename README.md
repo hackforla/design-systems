@@ -1,6 +1,13 @@
 # About
 
-Hack for LA's Design System initiative seeks  to empower volunteers with the tools, documentation and templates for creating and maintaining a design system for their HfLA projects.  As Hack for LA continues to scale it has become more essential to create consistent documentation and standards for deliverables. 
+Hack for LA's Design System initiative seeks to empower volunteers with the tools, documentation, and templates for creating and maintaining a design system for their HfLA projects.  As Hack for LA scales up, consistent documentation becomes more and more essential to project efficiency and success. 
+
+### Our Guiding Objectives
+
+- Ensure volunteers are achieving their goals
+- Deliver value to Hack for LA stakeholders/end users
+- Ensure the team is running efficiently and effectively
+- Create inclusive opportunities for professional development
 
 # Documentation and Links
 
