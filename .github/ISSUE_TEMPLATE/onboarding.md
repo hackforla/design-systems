@@ -1,12 +1,11 @@
 ---
-name: Onboarding issue template
+name: Onboarding onto the Design Systems Team
 about: New volunteers, start here!
-title: '[VOLUNTEER'S NAME] onboarding'
+title: '[VOLUNTEER NAME] onboarding'
 labels: 'size: 1 pt'
 assignees: ''
 
 ---
-
 # Conduct and logistics 
 - [ ] Accept and abide by [our expectations](https://github.com/hackforla/design-systems/wiki/Getting-Started), including the HfLA code of conduct and norms
 - [ ] Be available for the [weekly meetings](https://github.com/hackforla/design-systems/wiki/Getting-Started)
