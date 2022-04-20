@@ -11,6 +11,7 @@ _If you get stuck at any point, send a message in our #design-systems Slack chan
 - [ ] Accept and abide by [our expectations](https://github.com/hackforla/design-systems/wiki/Getting-Started), including the HfLA code of conduct and norms
 - [ ] Be available for the [weekly meetings](https://github.com/hackforla/design-systems/wiki/Getting-Started)
 - [ ] Be able to contribute the [minimum number of hours a week](https://docs.google.com/presentation/d/127UC7q5JOgc5oPev4bbEdydchany-rVBkPRn4w6DMek/edit#slide=id.gc50dc3b32b_1_40)
+- [ ] [Onboard onto Hack for LA](https://www.hackforla.org/getting-started)
 - [ ] Introduce yourself on the [Design Systems Slack channel](https://hackforla.slack.com/archives/CH2U1CB9Q)
 - [ ] Get added to our [Google Drive](https://drive.google.com/drive/folders/1BE2bwPuBxKWtQPGw-Mn1pEvDGivawaRp?usp=sharing)
   - [ ] Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1Y65x1bC8tys80Xf7VjC0dVK7kQshlHwbLm6JpvNcMcI/edit#gid=1806338047).
