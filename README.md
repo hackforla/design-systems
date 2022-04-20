@@ -19,8 +19,4 @@ Hack for LA's Design System initiative seeks to empower volunteers with the tool
 
 Product Manager [Yasaman Roostaeian](https://hackforla.slack.com/archives/CH2U1CB9Q)
 
-### Licensing
-
-GNU General Public License v2.0
-
-_this readme file sourced from [Jessica Sand](http://jessicasand.com/other-stuff/just-enough-docs/)_
+_GNU General Public License v2.0. this readme file sourced from [Jessica Sand](http://jessicasand.com/other-stuff/just-enough-docs/)_
