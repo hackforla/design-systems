@@ -1,6 +1,6 @@
 ---
-name: -New issue
-about: Create a new issue. Formatting included to get you started
+name: Blank issue
+about: Basic formatting included to get you started
 title: ''
 labels: ''
 assignees: ''
@@ -11,9 +11,9 @@ assignees: ''
 [Clearly state the purpose of this issue in a few words.]
 
 ### Documentation
-- [ ] Project: Project Management 
-- [ ] Milestone: 
-- [ ] Label: 
+- [ ] label: " "
+- [ ] project: "Project Management"
+- [ ] milestone: " "
 
 ### Action Items
 - [ ] Task
