@@ -5,8 +5,8 @@ Hack for LA's Design System initiative seeks to empower volunteers with the tool
 ### Our Guiding Objectives
 
 - Ensure volunteers are achieving their goals
-- Deliver value to Hack for LA stakeholders/end users
-- Ensure the team is running efficiently and effectively
+- Deliver value to Hack for LA stakeholders and end users
+- Ensure teams are running efficiently and effectively
 - Create inclusive opportunities for professional development
 
 # Documentation and Links
