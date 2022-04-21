@@ -33,7 +33,7 @@ These tasks are also outlined on our wiki's ["How to join our team"](https://git
 
 # About design systems
 - [ ] Read the [background on our DS project](https://github.com/hackforla/design-systems/wiki/Objectives,-Roadmap,-and-History)
-- [ ] Read chapter 1 of _Design Systems_ by Alla Kholmatova, one of the key books people refer to when discussing design systems [PDF](https://www.smashingmagazine.com/provide/eBooks/design-systems.pdf) [Kindle](https://www.amazon.com/Design-Systems-Smashing-eBooks-Kholmatova-ebook/dp/B076H49W1G) [Hard cover](https://www.amazon.com/Design-Systems-practical-creating-languages/dp/3945749581)
+- [ ] Read chapter 1 of _[Design Systems](https://www.smashingmagazine.com/provide/eBooks/design-systems.pdf)_ by Alla Kholmatova
   - [ ] Comment your key learnings in the [Kholmatova discussion thread](https://github.com/hackforla/design-systems/discussions/198)
 - [ ] Watch Jennie Yip's Figma conference talk, ["Reimagining Atlassian Design System"](https://www.youtube.com/watch?v=_pfyLVXTVSQ)
   - [ ] Comment your key learnings in the [Atlassian DS discussion thread](https://github.com/hackforla/design-systems/discussions/170)
