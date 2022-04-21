@@ -26,7 +26,7 @@ These tasks are also outlined on our wiki's ["How to join our team"](https://git
 - [ ] Read about [issues and product development terms](https://github.com/hackforla/design-systems/wiki/Issues-101-and-glossary) 
 - [ ] Read [How Hack for LA uses Kanban](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/edit)
 - [ ] To the right of the issue, add the following settings:
-  - [ ] **label:** `size: 1 pt`
+  - [ ] **label:** `size: 1 pt` `role: your-role`
   - [ ] **project:** `Onboarding`
   - [ ] **milestone:** `Velocity`
   - [ ] **assignee:** you!
