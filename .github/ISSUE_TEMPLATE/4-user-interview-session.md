@@ -1,19 +1,21 @@
 ---
 name: 🧪 Interviewing users
 about: Conduct, take notes, or analyze
-title: '`Conduct` `Take notes on` `Analyze` the interview | `Participant` `#`'
+title: '`Interview` `Take notes on` `Analyze` `Participant` `#`'
 labels: 'role: research, size: 1 pt'
 assignees: ''
 
 ---
 # Documenting this issue
 - [ ] Edit title 
-  - [ ] Pick `Conduct` `Take notes on` or `Analyze`
-  - [ ] Change `Participant` to their volunteer role
+  - [ ] Pick `Interview` `Take notes on` or `Analyze`
+  - [ ] Replace `Participant` with their volunteer role `PM` `Designer` or `Developer`
   - [ ] Replace `#` with their participant number
-- [ ] Choose the labels `role: research` `size: 1 pt`
-- [ ] Choose the milestone `User needs interviews`
-- [ ] Choose the project `Project Management`
+- [ ] Classify issue
+  - [ ] Choose the labels `role: research` `size: 1 pt`
+  - [ ] Choose the milestone `User needs interviews`
+  - [ ] Choose the project `Project Management`
+- [ ] Delete tasks that don't apply
 
 # Prepare to conduct or take notes
 - [ ] Read the [interview guide](https://docs.google.com/document/d/1VYCMj7JtDFvBtrs7hQKGdC0Jelkq07HYtwtlNWb-QSw) _thoroughly_
@@ -22,7 +24,6 @@ assignees: ''
 - [ ] Confirm that a teammate with Zoom Pro will be available to record the session
 
 # Analyze
-
 To give each researcher the opportunity to practice affinity diagramming, analysis should be owned by researchers who weren't conducting the session.
 
 - [ ] Schedule a meeting with your analysis partner to discuss, brainstorm, and complete the affinity diagram through step 3
