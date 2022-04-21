@@ -1,13 +1,16 @@
 ---
 name: 🧪 Interviewing users
 about: Conduct, take notes, or analyze
-title: '[Conduct] [Take notes on] [Analyze] the interview'
+title: '`Conduct` `Take notes on` `Analyze` the interview | `Participant` `#`'
 labels: 'role: research, size: 1 pt'
 assignees: ''
 
 ---
 # Documenting this issue
-- [ ] Edit title; pick `Conduct` `Take notes on` or `Analyze`
+- [ ] Edit title 
+  - [ ] Pick `Conduct` `Take notes on` or `Analyze`
+  - [ ] Change `Participant` to their volunteer role
+  - [ ] Replace `#` with their participant number
 - [ ] Choose the labels `role: research` `size: 1 pt`
 - [ ] Choose the milestone `User needs interviews`
 - [ ] Choose the project `Project Management`
