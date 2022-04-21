@@ -1,6 +1,6 @@
 ---
 name: Blank issue
-about: Use this template if the other templates aren't working for you.
+about: Use this template if the other templates aren't working for you. Read what's inside the backticks `` and don't delete stuff outside of them – thx!
 title: ''
 labels: ''
 assignees: ''
