@@ -1,5 +1,5 @@
 ---
-name: Interviewing users
+name: 🧪 Interviewing users
 about: Conduct, take notes, or analyze
 title: '[Conduct] [Take notes on] [Analyze] the interview'
 labels: 'role: research, size: 1 pt'
