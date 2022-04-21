@@ -22,13 +22,13 @@ These tasks are also outlined on our wiki's ["How to join our team"](https://git
 - [ ] Enable two-factor authentication on your Github account
 - [ ] Upload a profile picture to your Github account
 
-# Project management 101
+# Documentation 101
 - [ ] Read about [issues and product development terms](https://github.com/hackforla/design-systems/wiki/Issues-101-and-glossary) 
 - [ ] Read [How Hack for LA uses Kanban](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/edit)
-- [ ] Add the following to this issue:
-  - [ ] **label:** "size: 1 pt"
-  - [ ] **project:** "onboarding"
-  - [ ] **milestone:** "velocity"
+- [ ] To the right of the issue, add the following settings:
+  - [ ] **label:** `size: 1 pt`
+  - [ ] **project:** `Onboarding`
+  - [ ] **milestone:** `Velocity`
   - [ ] **assignee:** you!
 
 # About design systems
