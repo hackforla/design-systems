@@ -1,5 +1,5 @@
 ---
-name: Onboarding onto the Design Systems Team
+name: 🆕 Onboarding onto the Design Systems Team
 about: New volunteers, start here! Submit this issue and you'll be ready to begin onboarding onto our team.
 title: '[VOLUNTEER NAME] onboarding'
 labels: 'size: 1 pt'
