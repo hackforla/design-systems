@@ -1,7 +1,7 @@
 ---
 name: 🆕 Onboarding onto the Design Systems Team
 about: New volunteers, start here! Submit this issue and you'll be ready to begin onboarding onto our team.
-title: '[VOLUNTEER NAME] onboarding'
+title: '`VOLUNTEER NAME` onboarding'
 labels: 'size: 1 pt'
 assignees: ''
 
@@ -25,6 +25,7 @@ These tasks are also outlined on our wiki's ["How to join our team"](https://git
 # Documentation 101
 - [ ] Read about [issues and product development terms](https://github.com/hackforla/design-systems/wiki/Issues-101-and-glossary) 
 - [ ] Read [How Hack for LA uses Kanban](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/edit)
+- [ ] In the title, replace `VOLUNTEER NAME` with your name
 - [ ] To the right of the issue, add the following settings:
   - [ ] **label:** `size: 1 pt` `role: your-role`
   - [ ] **project:** `Onboarding`
