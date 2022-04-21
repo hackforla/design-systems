@@ -6,7 +6,7 @@ labels: 'size: 1 pt'
 assignees: ''
 
 ---
-_If you get stuck at any point, send a message in our #design-systems Slack channel with a link to this issue._
+_If you get stuck at any point, send a message in our_ `#design-systems` _Slack channel with a link to this issue._
 # Conduct and logistics 
 These tasks are also outlined on our wiki's ["How to join our team"](https://github.com/hackforla/design-systems/wiki/How-to-join-the-HfLA-DS-team) article. 
 - [ ] Read and agree to the expectations 
@@ -25,14 +25,14 @@ These tasks are also outlined on our wiki's ["How to join our team"](https://git
 # Documentation 101
 - [ ] Read about [issues and product development terms](https://github.com/hackforla/design-systems/wiki/Issues-101-and-glossary) 
 - [ ] Read [How Hack for LA uses Kanban](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/edit)
-- [ ] To the right of the issue, add the following settings:
-  - [ ] **label:** `size: 1 pt` `role: your-role`
-  - [ ] **project:** `Onboarding`
-  - [ ] **milestone:** `Velocity`
-  - [ ] **assignee:** you!
+- [ ] To the right of the issue, update its classifiers
+  - [ ] Add yourself as assignee
+  - [ ] Choose the labels `size: 1 pt` `role: your-role`
+  - [ ] Choose the project `Onboarding`
+  - [ ] Choose the milestone `Velocity`
 
 # About design systems
-- [ ] Read the [background on our DS project](https://github.com/hackforla/design-systems/wiki/Objectives,-Roadmap,-and-History)
+- [ ] Read the [background on our DS project](https://github.com/hackforla/design-systems/wiki/Background)
 - [ ] Read chapter 1 of _[Design Systems](https://www.smashingmagazine.com/provide/eBooks/design-systems.pdf)_ by Alla Kholmatova
   - [ ] Comment your key learnings in the [Kholmatova discussion thread](https://github.com/hackforla/design-systems/discussions/198)
 - [ ] Watch Jennie Yip's Figma conference talk, ["Reimagining Atlassian Design System"](https://www.youtube.com/watch?v=_pfyLVXTVSQ)
@@ -41,12 +41,13 @@ These tasks are also outlined on our wiki's ["How to join our team"](https://git
 ### More educational resources 
 These are optional, but will help deepen your understanding of design systems.
 - [ ] [Invision's Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)
-- [ ] [Defining Design Systems](https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6) - 7 minute read
+- [ ] [Defining Design Systems](https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6)
 - [ ] [Design Systems podcast](https://podcast.clearleft.com/season01/episode01/) (15 min)
 - [ ] [Picking Parts, Products & People](https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742)
 
 # Role-specific tasks
-If your role is one of the following, complete the tasks for that role.
+If your role is one of the following, complete the tasks for that role. 
+- [ ] Delete the other tasks that don't apply
 
 ### Role: Design 
 - [ ] Follow the [experience profile guide](https://docs.google.com/presentation/d/1YK7HAiW8-XPI57G8LfY2dgjxN7JknTE0262mhcvhLhQ/edit#slide=id.p) to create an experience profile on the [experience board](https://github.com/hackforla/UI-UX/projects/5). As you learn new research or design skills, you can use the profile to track your progress.
