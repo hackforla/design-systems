@@ -1,6 +1,6 @@
 ---
 name: Clone the repository to your desktop
-about: How to join the repo team and fork the repository. [Copied from wiki article. Work in progress.]
+about: How to join the repo team and fork the repository. [work in progress]
 title: '[VOLUNTEER NAME] onboarding'
 labels: 'size: 1 pt, role: developer'
 assignees: ''
