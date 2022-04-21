@@ -1,24 +1,23 @@
 ---
 name: Blank issue
-about: Basic formatting included to get you started
+about: Use this template if the other templates aren't working for you.
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-### Overview
-[Clearly state the purpose of this issue in a few words.]
+`Clearly state the purpose of this issue in a few words. @ Mention teammates you want to notify.`
 
-### Documentation
-- [ ] label: " "
-- [ ] project: "Project Management"
-- [ ] milestone: " "
+# Documentation
+- [ ] Choose the label `size: _ pt` `role: _` `any other relevant labels`
+- [ ] Choose the project `Project Management`
+- [ ] Choose the milestone `_`
 
-### Action Items
-- [ ] Task
-- [ ] Task
-- [ ] Task
-
-### Resources/Instructions
-- [Link to resources, docs, related issues, etc.](http://google.com)
+# `Name of Task`
+`Link all relevant Google Docs or external resources in context of the subtask.`
+- [ ] `Subtask`
+- [ ] `Subtask`
+- [ ] `Subtask`
+- [ ] `If you link an issue as a task, Github will auto-populate the issue name and status, as well as state [Tracked in [#issue number] at the top.`
+`If you link an issue here, it will display only as a link.`
