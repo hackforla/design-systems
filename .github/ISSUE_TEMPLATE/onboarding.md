@@ -58,6 +58,7 @@ If your role is one of the following, complete the tasks for that role.
 ### Role: Research 
 - [ ] Follow the [experience profile guide](https://docs.google.com/presentation/d/1YK7HAiW8-XPI57G8LfY2dgjxN7JknTE0262mhcvhLhQ/edit#slide=id.p) to create an experience profile on the [experience board](https://github.com/hackforla/UI-UX/projects/5). As you learn new research or design skills, you can use the profile to track your progress.
   - [ ] Add profile link as a comment on this issue
+- [ ] Learn about [double diamond](https://nngroup.com/articles/discovery-phase)
 - [ ] Read the [Research Plan](https://docs.google.com/document/d/1peRWmKWLpYEjqtlszfqmSSpsPm95qagnsFCJdiyereo/edit#)
 - [ ] Read our [insights from the stakeholder interview](https://drive.google.com/drive/folders/1pUyX4rNLs0je5XZrcEdC-6n1YLQjONBb)
 
