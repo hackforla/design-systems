@@ -8,7 +8,7 @@ assignees: ''
 ---
 We encourage new developers to fork our repo to contribute. Developers developed in-house Button component with `dev branch` from design-system repo.
 
-## Using Git
+### General tips for using Git
 
 * Generally changes start on your local clone of your fork of this repository, in your own branch.
 * Commit your changes with a comment related to the issue it addresses to your local repository.
@@ -16,6 +16,13 @@ We encourage new developers to fork our repo to contribute. Developers developed
 * From the `hackforla` repository, create a Pull Request which asks `hackforla` to pull changes from your fork into the main repository.
 * After the owner of the `hackforla` repository approves and merges your Pull Request, your changes will be live on the website. 
 * [Github Guides](https://guides.github.com/) 
+
+# Documenting this issue
+- [ ] Choose the labels `size: 1 pt` `role: developer`
+- [ ] Choose the project `Onboarding`
+- [ ] Choose the milestone `Velocity`
+
+# Fork the repo 
 
 - [ ] Become a member of the repository Team
   - [ ] In the `design-systems` slack channel, request being added to the GitHub repository team and include your GitHub name. 
