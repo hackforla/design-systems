@@ -1,6 +1,6 @@
 ---
 name: Pull request tutorial
-about: Learn how to work on your first issue and make a pull request. [Copied from wiki article. Work in progress.]
+about: Learn how to work on your first issue and make a pull request. [work in progress]
 title: '[VOLUNTEER NAME] pull request tutorial'
 labels: 'size: 1 pt, role: developer'
 assignees: ''
