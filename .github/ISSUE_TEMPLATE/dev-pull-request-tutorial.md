@@ -1,7 +1,7 @@
 ---
 name: 📱 Pull request tutorial
 about: Learn how to work on your first issue and make a pull request. [work in progress]
-title: '`VOLUNTEER NAME` pull request tutorial'
+title: `VOLUNTEER NAME` pull request tutorial'
 labels: 'size: 1 pt, role: developer'
 assignees: ''
 
@@ -25,14 +25,13 @@ We encourage new developers to fork our repo to contribute. Developers developed
 - [ ] Choose the milestone `Velocity`
 
 # Start working on an issue
-
-- [ ] Create a new branch for each issue you work on. Doing all your work on topic branches leaves your repository's main branch (named `master`) unmodified and greatly simplifies keeping your fork in sync with the main project.
+For each issue you work on, you should create a new branch. Doing all your work on topic branches leaves your repository's main branch (named `master`) unmodified and greatly simplifies keeping your fork in sync with the main project.
   - [ ] Check current branch. The `git branch` command will let you know what branch you are in, and what branch names are already in use. ```git branch``` You will see a list of all of your branches. There will be a star (`*`) next to the branch that you are currently in. By default you should start on the `master` branch. When you work on future issues, you must always be in the `master` branch when creating a new branch.
   - [ ] If you are not currently in the `master` branch, run the following command to return to it: ```git checkout master``` The `git checkout` command will create and change to a new branch where you will do the work on your issue.  In git, the checkout command lets you navigate between different branches.  Using the `-b` flag you can create a new branch and immediately switch into it. 
   - [ ] To create a new issue branch, and switch into it: ```git checkout -b 221-fix-logo-width``` The text after the `-b`, in the example `221-fix-logo-width`, will be the name of your new branch. Choose a branch name that relates to the issue you're working on. No spaces! The format should look like the scheme above where the words are a brief description of the issue that will make sense at a glance to someone unfamiliar with the issue. No law of physics will break if you don't adhere to this scheme, but laws of git will break if you add spaces.
 
 # Saving your work 
-- [ ] When you've finished working on your issue, prepare your changes to push to your repository. Stage and commit are two commands are similar to the save command that you have used to in other programs. 
+When you've finished working on your issue, prepare your changes to push to your repository. Stage and commit are two commands are similar to the save command that you have used to in other programs. 
   - [ ] Use the `git add` command to stage your changes. This command prepares your changes before you commit them. You can stage files one at a time using the filename. 
   - [ ] Run the command: ```git add “filename.ext”```
   - [ ] Use the `git status` command to see the list of files that have been staged.  These are the files that will be committed (saved) when you run the next command, `git commit`. Please be sure all your staged changes are relevant to the issue you are working on. 
