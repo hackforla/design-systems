@@ -7,9 +7,8 @@ assignees: ''
 
 ---
 # Documenting this issue
-- [ ] Replace [VOLUNTEER NAME] in title with your name 
-- [ ] Choose the labels `size: 1 pt` `role: developer`
-- [ ] Choose the project `Onboarding`
+- [ ] Choose the labels `size: 1 pt`
+- [ ] Choose the project `Project Management`
 - [ ] Choose the milestone `Velocity`
 # Housekeeping 
 - [ ] Move all Google Docs you were working on into the [DS Drive](https://drive.google.com/drive/folders/1BE2bwPuBxKWtQPGw-Mn1pEvDGivawaRp), if they aren't there already.
