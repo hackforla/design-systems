@@ -7,31 +7,24 @@ assignees: ''
 
 ---
 # Documenting this issue
-- [ ] Edit title 
-  - [ ] Pick `Plan` `Conduct` or `Analyze`
-    - [ ] If analyzing, add `P#`
-  - [ ] Replace `section` with what's being tested
-    - cover page
-    - file menu
-    - individual component
-    - intro page
-    - start page
-    - plugin library
-- [ ] Add these classifiers
-  - [ ] Choose the labels `role: research` `size: 1 pt` `feature: section-being-tested`
-  - [ ] Choose the milestone `Figma Foundations`
-  - [ ] Choose the project `Project Management`
-- [ ] Delete the sections of tasks that don't apply
+### Title
+- [ ] Add `Plan` or `Conduct` or `Analyze` to the beginning of the title
+- [ ] Add what's being tested: `cover page` `file menu` `individual component` `intro page` `start page` `plugin library`
+- [ ] If conducting or analyzing, add `P#` at the end
+### Classifiers
+- [ ] Choose the labels `role: research` `size: 1 pt` `feature: section-being-tested`
+- [ ] Choose the milestone `Figma Foundations`
+- [ ] Choose the project `Project Management`
 
 # Plan
 
-### 1. Required readings
+### 1. Readings
 
 - [ ] [About usability testing](https://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
 - [ ] [Types of usability testing methods](https://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html)
 - [ ] [Writing a plan and types of metrics](https://www.usability.gov/how-to-and-tools/methods/planning-usability-testing.html)
 
-### 2. Writing the sections of the plan
+### 2. Writing the plan
 
 #### Constraints
 - [ ] Scope (what is being tested)
