@@ -9,6 +9,7 @@ assignees: ''
 # Documenting this issue
 - [ ] Edit title 
   - [ ] Pick `Plan` `Conduct` or `Analyze`
+    - [ ] If analyzing, add `P#`
   - [ ] Replace `section` with what's being tested
     - cover page
     - file menu
@@ -16,9 +17,11 @@ assignees: ''
     - intro page
     - start page
     - plugin library
-- [ ] Choose the labels `role: research` `size: 1 pt` `feature: section-being-tested`
-- [ ] Choose the milestone `Figma Foundations`
-- [ ] Choose the project `Project Management`
+- [ ] Add these classifiers
+  - [ ] Choose the labels `role: research` `size: 1 pt` `feature: section-being-tested`
+  - [ ] Choose the milestone `Figma Foundations`
+  - [ ] Choose the project `Project Management`
+- [ ] Delete the sections of tasks that don't apply
 
 # Plan
 
