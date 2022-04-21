@@ -25,7 +25,7 @@ These tasks are also outlined on our wiki's ["How to join our team"](https://git
 # Documentation 101
 - [ ] Read about [issues and product development terms](https://github.com/hackforla/design-systems/wiki/Issues-101-and-glossary) 
 - [ ] Read [How Hack for LA uses Kanban](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/edit)
-- [ ] To the right of the issue, update its classifiers
+- [ ] To the right of this issue, update its classifiers
   - [ ] Add yourself as assignee
   - [ ] Choose the labels `size: 1 pt` `role: your-role`
   - [ ] Choose the project `Onboarding`
@@ -38,8 +38,7 @@ These tasks are also outlined on our wiki's ["How to join our team"](https://git
 - [ ] Watch Jennie Yip's Figma conference talk, ["Reimagining Atlassian Design System"](https://www.youtube.com/watch?v=_pfyLVXTVSQ)
   - [ ] Comment your key learnings in the [Atlassian DS discussion thread](https://github.com/hackforla/design-systems/discussions/170)
 
-### More educational resources 
-These are optional, but will help deepen your understanding of design systems.
+These next readings are optional, but will help deepen your understanding of design systems.
 - [ ] [Invision's Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)
 - [ ] [Defining Design Systems](https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6)
 - [ ] [Design Systems podcast](https://podcast.clearleft.com/season01/episode01/) (15 min)
@@ -49,19 +48,21 @@ These are optional, but will help deepen your understanding of design systems.
 If your role is one of the following, complete the tasks for that role. 
 - [ ] Delete the other tasks that don't apply
 
-### Role: Design 
-- [ ] Follow the [experience profile guide](https://docs.google.com/presentation/d/1YK7HAiW8-XPI57G8LfY2dgjxN7JknTE0262mhcvhLhQ/edit#slide=id.p) to create an experience profile on the [experience board](https://github.com/hackforla/UI-UX/projects/5). As you learn new research or design skills, you can use the profile to track your progress.
-  - [ ] Add profile link as a comment on this issue
+### Role: Design
+
 - [ ] Read [HflA’s Design System Guide for Designers](https://docs.google.com/document/d/14BZYFEa5s5FESeASNorEDLH6zEW0LTYcpD1NVyE66iM/edit)
 - [ ] Learn about [Double Diamond](https://medium.com/design-council/the-double-diamond-15-years-on-8c7bc594610e)
 - [ ] Review [this Figma file](https://www.figma.com/file/mmvbxZ6lctjQneEeqTjC8O/UX%2FUI-Discovery-FigJam?node-id=0%3A1) to further understand Stage 2A of the project
 - [ ] Watch [Figma's tutorials](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma) on using Figma
-### Role: Research 
+### Role: Research
 - [ ] Follow the [experience profile guide](https://docs.google.com/presentation/d/1YK7HAiW8-XPI57G8LfY2dgjxN7JknTE0262mhcvhLhQ/edit#slide=id.p) to create an experience profile on the [experience board](https://github.com/hackforla/UI-UX/projects/5). As you learn new research or design skills, you can use the profile to track your progress.
   - [ ] Add profile link as a comment on this issue
 - [ ] Learn about [double diamond](https://nngroup.com/articles/discovery-phase)
 - [ ] Read the [Research Plan](https://docs.google.com/document/d/1peRWmKWLpYEjqtlszfqmSSpsPm95qagnsFCJdiyereo/edit#)
 - [ ] Read our [insights from the stakeholder interview](https://drive.google.com/drive/folders/1pUyX4rNLs0je5XZrcEdC-6n1YLQjONBb)
+
+### Role: Developer
+- [ ] Read the [research from the previous lead developer](https://github.com/hackforla/design-systems/wiki/Appendix)
 
 # Once you've completed the above tasks
 - [ ] Comment on this issue and @ the PM or your team lead.
