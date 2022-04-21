@@ -7,13 +7,11 @@ assignees: ''
 
 ---
 _If you get stuck at any point, send a message in our_ `#design-systems` _Slack channel with a link to this issue._
+
 # Conduct and logistics 
-These tasks are also outlined on our wiki's ["How to join our team"](https://github.com/hackforla/design-systems/wiki/How-to-join-the-HfLA-DS-team) article. 
-- [ ] Read and agree to the expectations 
-  - [ ] [Norms](https://github.com/hackforla/internship/wiki/Norms)
-  - [ ] [Code of Conduct](https://github.com/hackforla/codeofconduct)
-  - [ ] Be available for the [weekly meetings](https://github.com/hackforla/design-systems/wiki/How-to-join-the-HfLA-DS-team)
-  - [ ] Be able to contribute the [minimum number of hours a week](https://docs.google.com/presentation/d/127UC7q5JOgc5oPev4bbEdydchany-rVBkPRn4w6DMek/edit#slide=id.gc50dc3b32b_1_40)
+(The following tasks are also outlined on our wiki's ["How to join our team"](https://github.com/hackforla/design-systems/wiki/How-to-join-the-HfLA-DS-team) article.)
+- [ ] Read and agree to the [norms](https://github.com/hackforla/internship/wiki/Norms) and [code of conduct](https://github.com/hackforla/codeofconduct)
+- [ ] Be available to attend [weekly meetings](https://github.com/hackforla/design-systems/wiki/How-to-join-the-HfLA-DS-team) and contribute the [minimum number of hours a week](https://docs.google.com/presentation/d/127UC7q5JOgc5oPev4bbEdydchany-rVBkPRn4w6DMek/edit#slide=id.gc50dc3b32b_1_40)
 - [ ] [Onboard onto Hack for LA](https://www.hackforla.org/getting-started)
 - [ ] Introduce yourself on the [#design-systems Slack channel](https://hackforla.slack.com/archives/CH2U1CB9Q)
 - [ ] Get added to our [Google Drive](https://drive.google.com/drive/folders/1BE2bwPuBxKWtQPGw-Mn1pEvDGivawaRp?usp=sharing)
@@ -25,19 +23,16 @@ These tasks are also outlined on our wiki's ["How to join our team"](https://git
 # Documentation 101
 - [ ] Read about [issues and product development terms](https://github.com/hackforla/design-systems/wiki/Issues-101-and-glossary) 
 - [ ] Read [How Hack for LA uses Kanban](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/edit)
-- [ ] To the right of this issue, update its classifiers
-  - [ ] Add yourself as assignee
-  - [ ] Choose the labels `size: 1 pt` `role: your-role`
-  - [ ] Choose the project `Onboarding`
-  - [ ] Choose the milestone `Velocity`
+- [ ] To the right of this issue: add yourself as assignee, choose the labels `size: 1 pt` `role: your-role`, the project `Onboarding` and the milestone `Velocity`
 
 # About design systems
-- [ ] Read the [background on our DS project](https://github.com/hackforla/design-systems/wiki/Background)
 - [ ] Read chapter 1 of _[Design Systems](https://www.smashingmagazine.com/provide/eBooks/design-systems.pdf)_ by Alla Kholmatova
   - [ ] Comment your key learnings in the [Kholmatova discussion thread](https://github.com/hackforla/design-systems/discussions/198)
 - [ ] Watch Jennie Yip's Figma conference talk, ["Reimagining Atlassian Design System"](https://www.youtube.com/watch?v=_pfyLVXTVSQ)
   - [ ] Comment your key learnings in the [Atlassian DS discussion thread](https://github.com/hackforla/design-systems/discussions/170)
+- [ ] Read the [background on our DS project](https://github.com/hackforla/design-systems/wiki/Background)
 
+### Optional
 These next readings are optional, but will help deepen your understanding of design systems.
 - [ ] [Invision's Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)
 - [ ] [Defining Design Systems](https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6)
@@ -45,8 +40,8 @@ These next readings are optional, but will help deepen your understanding of des
 - [ ] [Picking Parts, Products & People](https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742)
 
 # Role-specific tasks
-If your role is one of the following, complete the tasks for that role. 
-- [ ] Delete the other tasks that don't apply
+If your role is one of the following, complete the tasks for that role. (You may delete the other tasks that don't apply.)
+- [ ] Once you're completely done, comment on this issue and @ the PM or your team lead.
 
 ### Role: Design
 - [ ] Follow the [experience profile guide](https://docs.google.com/presentation/d/1YK7HAiW8-XPI57G8LfY2dgjxN7JknTE0262mhcvhLhQ/edit#slide=id.p) to create an experience profile on the [experience board](https://github.com/hackforla/UI-UX/projects/5). As you learn new research or design skills, you can use the profile to track your progress.
@@ -65,6 +60,3 @@ If your role is one of the following, complete the tasks for that role.
 
 ### Role: Developer
 - [ ] Read the [research from the previous lead developer](https://github.com/hackforla/design-systems/wiki/Appendix)
-
-# Once you've completed the above tasks
-- [ ] Comment on this issue and @ the PM or your team lead.
