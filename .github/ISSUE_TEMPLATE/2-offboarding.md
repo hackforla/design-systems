@@ -1,5 +1,5 @@
 ---
-name: Offboarding from DS
+name: ❤️ Offboarding from DS
 about: If you're leaving the project, this issue will help you tie up loose ends.
 title: '[VOLUNTEER NAME] offboarding'
 labels: 'size: 1 pt'
