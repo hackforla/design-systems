@@ -16,7 +16,7 @@ assignees: ''
     - intro page
     - start page
     - plugin library
-- [ ] Choose the labels `role: research` `size: 1 pt` `feature: [section being tested]`
+- [ ] Choose the labels `role: research` `size: 1 pt` `feature: section-being-tested`
 - [ ] Choose the milestone `Figma Foundations`
 - [ ] Choose the project `Project Management`
 
