@@ -1,5 +1,5 @@
 ---
-name: Figma Foundations usability test
+name: 🧪 Figma Foundations usability test
 about: Plan, conduct, or analyze
 title: '[Plan] [Conduct] [Analyze] the [section] usability test'
 labels: 'role: research, size: 1 pt'
