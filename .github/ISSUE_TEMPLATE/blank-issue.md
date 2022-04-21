@@ -22,6 +22,6 @@ assignees: ''
   - [ ] `Subtask`
   - [ ] `Subtask`
 - [ ] `Task`
-- [ ] `If you link an issue as a task, Github will auto-populate the issue name and status, as well as state [Tracked in [#issue number] at the top.`
+- [ ] `If you link an issue as a task, Github will auto-populate the issue name and status, as well as state [Tracked in #___] at the top.`
 
 `If you link an issue here, it will display only as a link.`
