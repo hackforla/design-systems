@@ -1,6 +1,6 @@
 ---
 name: 🆕 Onboarding onto the Design Systems Team
-about: New volunteers, click the green button "Submit this issue" – this will generate your onboarding checklist. Complete the checklist items. If you get stuck at any point, send a message in our design-systems Slack channel. (
+about: New volunteers, click the green button "Submit this issue" – this will generate your onboarding checklist. Complete the checklist items. Questions? Message our "design-systems" Slack channel. (
 title: 'Onboarding'
 labels: 'size: 1 pt'
 assignees: ''
