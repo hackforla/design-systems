@@ -1,62 +1,43 @@
 ---
 name: 🆕 Onboarding onto the Design Systems Team
-about: New volunteers, start here! Submit this issue and you'll be ready to begin onboarding onto our team.
+about: New volunteers, click the green button "Submit this issue" – this will generate your onboarding checklist. If you get stuck at any point, send a message in our #design-systems Slack channel. 
 title: 'Onboarding'
 labels: 'size: 1 pt'
 assignees: ''
 
 ---
-_If you get stuck at any point, send a message in our_ `#design-systems` _Slack channel with a link to this issue._
-
-# Conduct and logistics 
-(The following tasks are also outlined on our wiki's ["How to join our team"](https://github.com/hackforla/design-systems/wiki/How-to-join-the-HfLA-DS-team) article.)
-- [ ] Read and agree to the [norms](https://github.com/hackforla/internship/wiki/Norms) and [code of conduct](https://github.com/hackforla/codeofconduct)
-- [ ] Be available to attend [weekly meetings](https://github.com/hackforla/design-systems/wiki/How-to-join-the-HfLA-DS-team) and contribute the [minimum number of hours a week](https://docs.google.com/presentation/d/127UC7q5JOgc5oPev4bbEdydchany-rVBkPRn4w6DMek/edit#slide=id.gc50dc3b32b_1_40)
-- [ ] [Onboard onto Hack for LA](https://www.hackforla.org/getting-started)
-- [ ] Introduce yourself on the [#design-systems Slack channel](https://hackforla.slack.com/archives/CH2U1CB9Q)
-- [ ] Get added to our [Google Drive](https://drive.google.com/drive/folders/1BE2bwPuBxKWtQPGw-Mn1pEvDGivawaRp?usp=sharing)
-  - [ ] Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1Y65x1bC8tys80Xf7VjC0dVK7kQshlHwbLm6JpvNcMcI/edit#gid=1806338047).
-  - [ ] Comment on this issue and @ mention the PM, confirming that you have added yourself to the roster
-- [ ] Enable two-factor authentication on your Github account
-- [ ] Upload a profile picture to your Github account
-
-# Documentation 101
-- [ ] Read about [issues and product development terms](https://github.com/hackforla/design-systems/wiki/Issues-101-and-glossary) 
-- [ ] Read [How Hack for LA uses Kanban](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/edit)
+# Logistics 
+- [ ] Complete [Hack for LA onboarding](https://www.hackforla.org/getting-started).
+- [ ] Set aside at least 6 hours of time a week for DS.
+  - [ ] Agree to attend our [weekly meetings](https://github.com/hackforla/design-systems/wiki/How-to-join-the-HfLA-DS-team).
+- [ ] On the [#design-systems Slack channel](https://hackforla.slack.com/archives/CH2U1CB9Q), introduce yourself and @ the PM requesting access to [our Google Drive](https://drive.google.com/drive/folders/1BE2bwPuBxKWtQPGw-Mn1pEvDGivawaRp?usp=sharing) and [Figma project](https://www.figma.com/files/project/39879901/Team-project?fuid=913139172394832663).
+  - [ ] Once you have access, add yourself to [our roster](https://docs.google.com/spreadsheets/d/1Y65x1bC8tys80Xf7VjC0dVK7kQshlHwbLm6JpvNcMcI).
+- [ ] Read about [how Github works](https://github.com/hackforla/design-systems/wiki/Issues-101-and-glossary).
 - [ ] To the right of this issue: add yourself as assignee, choose the labels `size: 1 pt` `role: your-role`, the project `Onboarding` and the milestone `Velocity`
 
 # About design systems
-- [ ] Read chapter 1 of _[Design Systems](https://www.smashingmagazine.com/provide/eBooks/design-systems.pdf)_ by Alla Kholmatova
-  - [ ] Comment your key learnings in the [Kholmatova discussion thread](https://github.com/hackforla/design-systems/discussions/198)
-- [ ] Watch Jennie Yip's Figma conference talk, ["Reimagining Atlassian Design System"](https://www.youtube.com/watch?v=_pfyLVXTVSQ)
-  - [ ] Comment your key learnings in the [Atlassian DS discussion thread](https://github.com/hackforla/design-systems/discussions/170)
-- [ ] Read the [background on our DS project](https://github.com/hackforla/design-systems/wiki/Background)
-
-### Optional
-These next readings are optional, but will help deepen your understanding of design systems.
-- [ ] [Invision's Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)
-- [ ] [Defining Design Systems](https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6)
-- [ ] [Design Systems podcast](https://podcast.clearleft.com/season01/episode01/) (15 min)
-- [ ] [Picking Parts, Products & People](https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742)
+- [ ] Read chapter 1 of _[Design Systems](https://www.smashingmagazine.com/provide/eBooks/design-systems.pdf)_ by Alla Kholmatova.
+  - [ ] Comment your key learnings in the [discussion thread](https://github.com/hackforla/design-systems/discussions/198).
+- [ ] Watch Jennie Yip's Figma conference talk, ["Reimagining Atlassian Design System"](https://www.youtube.com/watch?v=_pfyLVXTVSQ).
+  - [ ] Comment your key learnings in the [discussion thread](https://github.com/hackforla/design-systems/discussions/170).
+- [ ] Read the [background on our DS project](https://github.com/hackforla/design-systems/wiki/Background).
 
 # Role-specific tasks
-If your role is one of the following, complete the tasks for that role. (You may delete the other tasks that don't apply.)
+Complete the tasks for your role only (you may delete the other tasks that don't apply).
 - [ ] Once you're completely done, comment on this issue and @ the PM or your team lead.
 
 ### Role: Design
 - [ ] Follow the [experience profile guide](https://docs.google.com/presentation/d/1YK7HAiW8-XPI57G8LfY2dgjxN7JknTE0262mhcvhLhQ/edit#slide=id.p) to create an experience profile on the [experience board](https://github.com/hackforla/UI-UX/projects/5). As you learn new research or design skills, you can use the profile to track your progress.
-  - [ ] Add profile link as a comment on this issue
-- [ ] Read [HfLA’s Design System Guide for Designers](https://docs.google.com/document/d/14BZYFEa5s5FESeASNorEDLH6zEW0LTYcpD1NVyE66iM/edit)
-- [ ] Learn about [Double Diamond](https://medium.com/design-council/the-double-diamond-15-years-on-8c7bc594610e)
-- [ ] Review [this Figma file](https://www.figma.com/file/mmvbxZ6lctjQneEeqTjC8O/UX%2FUI-Discovery-FigJam?node-id=0%3A1) to further understand Stage 2A of the project
-- [ ] Watch [Figma's tutorials](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma) on using Figma
+- [ ] Read [HfLA’s Design System Guide for Designers](https://docs.google.com/document/d/14BZYFEa5s5FESeASNorEDLH6zEW0LTYcpD1NVyE66iM/edit).
+- [ ] Learn about [Double Diamond](https://medium.com/design-council/the-double-diamond-15-years-on-8c7bc594610e).
+- [ ] Review [this Figma file](https://www.figma.com/file/mmvbxZ6lctjQneEeqTjC8O/UX%2FUI-Discovery-FigJam?node-id=0%3A1) to further understand Stage 2A of the project.
+- [ ] Watch [Figma's tutorials](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma) on using Figma.
 
 ### Role: Research
 - [ ] Follow the [experience profile guide](https://docs.google.com/presentation/d/1YK7HAiW8-XPI57G8LfY2dgjxN7JknTE0262mhcvhLhQ/edit#slide=id.p) to create an experience profile on the [experience board](https://github.com/hackforla/UI-UX/projects/5). As you learn new research or design skills, you can use the profile to track your progress.
-  - [ ] Add profile link as a comment on this issue
-- [ ] Learn about [double diamond](https://nngroup.com/articles/discovery-phase)
-- [ ] Read the [Research Plan](https://docs.google.com/document/d/1peRWmKWLpYEjqtlszfqmSSpsPm95qagnsFCJdiyereo/edit#)
-- [ ] Read our [insights from the stakeholder interview](https://drive.google.com/drive/folders/1pUyX4rNLs0je5XZrcEdC-6n1YLQjONBb)
+- [ ] Learn about [double diamond](https://nngroup.com/articles/discovery-phase).
+- [ ] Read the [Research Plan](https://docs.google.com/document/d/1peRWmKWLpYEjqtlszfqmSSpsPm95qagnsFCJdiyereo).
+- [ ] Read our [insights from the stakeholder interview](https://drive.google.com/drive/folders/1pUyX4rNLs0je5XZrcEdC-6n1YLQjONBb).
 
 ### Role: Developer
-- [ ] Read the [research from the previous lead developer](https://github.com/hackforla/design-systems/wiki/Appendix)
+- [ ] Read the [research from the previous lead developer](https://github.com/hackforla/design-systems/wiki/Appendix).
