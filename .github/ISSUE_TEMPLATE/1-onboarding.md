@@ -27,14 +27,14 @@ Complete the tasks for your role only (you may delete the other tasks that don't
 - [ ] Once you're completely done, comment on this issue and @ the PM or your team lead.
 
 ### Role: Design
-- [ ] Follow the [experience profile guide](https://docs.google.com/presentation/d/1YK7HAiW8-XPI57G8LfY2dgjxN7JknTE0262mhcvhLhQ/edit#slide=id.p) to create an experience profile on the [experience board](https://github.com/hackforla/UI-UX/projects/5). As you learn new research or design skills, you can use the profile to track your progress.
+- [ ] Submit [this issue template](https://github.com/hackforla/UI-UX/issues/new?assignees=&labels=experience+profile&template=template-for-UX-Experience-Profile.md&title=UX%2FUI+Experience+Profile%3A+YOUR+NAME) and use [this guide](https://docs.google.com/presentation/d/1YK7HAiW8-XPI57G8LfY2dgjxN7JknTE0262mhcvhLhQ) for help.
 - [ ] Read [HfLA’s Design System Guide for Designers](https://docs.google.com/document/d/14BZYFEa5s5FESeASNorEDLH6zEW0LTYcpD1NVyE66iM/edit).
 - [ ] Learn about [Double Diamond](https://medium.com/design-council/the-double-diamond-15-years-on-8c7bc594610e).
 - [ ] Review [this Figma file](https://www.figma.com/file/mmvbxZ6lctjQneEeqTjC8O/UX%2FUI-Discovery-FigJam?node-id=0%3A1) to further understand Stage 2A of the project.
 - [ ] Watch [Figma's tutorials](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma) on using Figma.
 
 ### Role: Research
-- [ ] Follow the [experience profile guide](https://docs.google.com/presentation/d/1YK7HAiW8-XPI57G8LfY2dgjxN7JknTE0262mhcvhLhQ/edit#slide=id.p) to create an experience profile on the [experience board](https://github.com/hackforla/UI-UX/projects/5). As you learn new research or design skills, you can use the profile to track your progress.
+- [ ] Submit [this issue template](https://github.com/hackforla/UI-UX/issues/new?assignees=&labels=experience+profile&template=template-for-UX-Experience-Profile.md&title=UX%2FUI+Experience+Profile%3A+YOUR+NAME) and use [this guide](https://docs.google.com/presentation/d/1YK7HAiW8-XPI57G8LfY2dgjxN7JknTE0262mhcvhLhQ) for help.
 - [ ] Learn about [double diamond](https://nngroup.com/articles/discovery-phase).
 - [ ] Read the [Research Plan](https://docs.google.com/document/d/1peRWmKWLpYEjqtlszfqmSSpsPm95qagnsFCJdiyereo).
 - [ ] Read our [insights from the stakeholder interview](https://drive.google.com/drive/folders/1pUyX4rNLs0je5XZrcEdC-6n1YLQjONBb).
