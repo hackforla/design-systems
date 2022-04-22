@@ -1,6 +1,6 @@
-# About 
+# We are HfLA's Design Systems Team! 
 
-Hack for LA's **Design System initiative** seeks to empower volunteers with the tools, documentation, and templates for creating and maintaining a design system for their HfLA projects.
+We seek to create a design system that will empower all HfLA teams to achieve their goals.
 
 # Newcomers
 
