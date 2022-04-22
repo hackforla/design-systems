@@ -1,5 +1,5 @@
 ---
-name: 🆕 Onboarding onto the Design Systems Team
+name: 🆕 Onboarding for Design System newcomers
 about: New volunteers, click the green button "Submit this issue" – this will generate your onboarding checklist. Complete the checklist items. Questions? Message our "design-systems" Slack channel. --------
 title: 'Onboarding'
 labels: 'size: 1 pt'
