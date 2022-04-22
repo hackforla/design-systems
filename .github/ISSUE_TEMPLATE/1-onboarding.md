@@ -6,6 +6,18 @@ labels: 'size: 1 pt'
 assignees: ''
 
 ---
+This is your onboarding checklist!
+
+
+
+
+
+
+
+
+
+
+
 # Logistics 
 - [ ] Complete [Hack for LA onboarding](https://www.hackforla.org/getting-started).
 - [ ] Set aside at least 6 hours of time a week for HfLA work.
