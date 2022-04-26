@@ -9,11 +9,10 @@ assignees: ''
 # Documenting this issue
 ### Title
 - [ ] Add `Plan` or `Conduct` or `Analyze` to the beginning of the title
-- [ ] Add what's being tested: `cover page` `file menu` `individual component` `intro page` `start page` `plugin library`
 - [ ] If conducting or analyzing, add `P#` at the end
 ### Classifiers
 - [ ] Choose the labels `role: research` `size: 1 pt` `feature: section-being-tested`
-- [ ] Choose the milestone `Figma Foundations`
+- [ ] Choose the milestone `FF _` and whichever page is being tested
 - [ ] Choose the project `Project Management`
 
 # Plan
