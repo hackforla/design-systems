@@ -33,7 +33,7 @@ assignees: ''
 
 # About design systems
 - [ ] Read chapter 1 (pages 18-45) of _[Design Systems](https://www.smashingmagazine.com/provide/eBooks/design-systems.pdf)_ by Alla Kholmatova.
-  - [ ] As you read, take notes, and paste your notes in the [discussion thread](https://github.com/hackforla/design-systems/discussions/198).
+  - [ ] Take notes as you read, and paste your notes in the [discussion thread](https://github.com/hackforla/design-systems/discussions/198).
 - [ ] Read the [insight report from the stakeholder interview](https://drive.google.com/file/d/1QITYZvn2oFB4y9eakQjhQURrk-QS72Oj)
 
 # Role-specific tasks
