@@ -1,7 +1,7 @@
 ---
 name: 🆕 Onboarding for Design System newcomers
-about: New volunteers, CLICK THE GREEN BUTTON "Submit new issue" – this will generate your onboarding checklist. Complete the checklist items. Questions? Message our "design-systems" Slack channel. --------
-title: 'Onboarding'
+about: New volunteers, CLICK THE GREEN BUTTON "Submit new issue" – this will generate a checklist of tasks you need to complete. --------
+title: 'Learn about design systems and using Github'
 labels: 'size: 1 pt'
 assignees: ''
 
