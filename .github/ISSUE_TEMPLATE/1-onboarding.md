@@ -30,8 +30,6 @@ assignees: ''
 # About design systems
 - [ ] Read chapter 1 of _[Design Systems](https://www.smashingmagazine.com/provide/eBooks/design-systems.pdf)_ by Alla Kholmatova.
   - [ ] Comment your key learnings in the [discussion thread](https://github.com/hackforla/design-systems/discussions/198).
-- [ ] Watch Jennie Yip's Figma conference talk, ["Reimagining Atlassian Design System"](https://www.youtube.com/watch?v=_pfyLVXTVSQ).
-  - [ ] Comment your key learnings in the [discussion thread](https://github.com/hackforla/design-systems/discussions/170).
 - [ ] Read the [background on our DS project](https://github.com/hackforla/design-systems/wiki/Background).
 
 # Role-specific tasks
