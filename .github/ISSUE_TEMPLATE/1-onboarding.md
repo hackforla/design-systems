@@ -2,7 +2,7 @@
 name: 🆕 Onboarding for Design System newcomers
 about: New volunteers, CLICK THE GREEN BUTTON "Submit new issue" – this will generate a checklist of tasks you need to complete. --------
 title: 'Learn about design systems and using Github'
-labels: 'size: 1 pt'
+labels: 'pts: 1'
 assignees: ''
 
 ---
