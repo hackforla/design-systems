@@ -22,7 +22,11 @@ assignees: ''
 - [ ] Complete [Hack for LA onboarding](https://www.hackforla.org/getting-started).
 - [ ] Set aside at least 6 hours of time a week for HfLA work.
   - [ ] Agree to attend our [weekly meetings](https://github.com/hackforla/design-systems/wiki/How-to-join-the-HfLA-DS-team).
-- [ ] For your issue: click `Star` at the top right of the page. Add yourself as **assignee**, choose the **label** `role: your-role`, and the **project** `Learn about design systems`.
+To the right of the page, 
+  - [ ] Click the `⭐ Star` icon at the top. 
+  - [ ] Select yourself as **assignee**
+  - [ ] Select the **label** `role: _` (your role)
+  - [ ] Select the **project** `Learning about design systems`.
 - [ ] In the [#design-systems Slack channel](https://hackforla.slack.com/archives/CH2U1CB9Q), introduce yourself and request access to [our Google Drive](https://drive.google.com/drive/folders/1BE2bwPuBxKWtQPGw-Mn1pEvDGivawaRp?usp=sharing), Google Calendar meetings, and [Figma project](https://www.figma.com/files/project/39879901/Team-project?fuid=913139172394832663). @ the PM and your team lead in your message.
   - [ ] Once you have access, add yourself to [our roster](https://docs.google.com/spreadsheets/d/1Y65x1bC8tys80Xf7VjC0dVK7kQshlHwbLm6JpvNcMcI).
 - [ ] Read about [how Github works](https://github.com/hackforla/design-systems/wiki/Issues-101-and-glossary).
