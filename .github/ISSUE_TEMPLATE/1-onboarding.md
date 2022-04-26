@@ -22,9 +22,7 @@ assignees: ''
 - [ ] Complete [Hack for LA onboarding](https://www.hackforla.org/getting-started).
 - [ ] Set aside at least 6 hours of time a week for HfLA work.
   - [ ] Agree to attend our [weekly meetings](https://github.com/hackforla/design-systems/wiki/How-to-join-the-HfLA-DS-team).
-  - [ ] 
-To the right of the page, 
-  - [ ] Click the `⭐ Star` icon at the top. 
+- To the right of your issue there's a list of settings to update: 
   - [ ] Select yourself as **assignee**
   - [ ] Select the **label** `role: _` (your role)
   - [ ] Select the **project** `Learning about design systems`.
