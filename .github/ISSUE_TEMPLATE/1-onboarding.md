@@ -31,7 +31,7 @@ assignees: ''
 # About design systems
 - [ ] Read chapter 1 (pages 18-45) of _[Design Systems](https://www.smashingmagazine.com/provide/eBooks/design-systems.pdf)_ by Alla Kholmatova.
   - [ ] As you read, take notes, and paste your notes in the [discussion thread](https://github.com/hackforla/design-systems/discussions/198).
-- [ ] Read the [background on our DS project](https://github.com/hackforla/design-systems/wiki/Background).
+- [ ] Read the [insight report from the stakeholder interview](https://drive.google.com/file/d/1QITYZvn2oFB4y9eakQjhQURrk-QS72Oj)
 
 # Role-specific tasks
 Complete the tasks for your role only (you may delete the other tasks that don't apply).
@@ -47,8 +47,7 @@ Complete the tasks for your role only (you may delete the other tasks that don't
 ### Role: Research
 - [ ] Submit [this issue template](https://github.com/hackforla/UI-UX/issues/new?assignees=&labels=experience+profile&template=template-for-UX-Experience-Profile.md&title=UX%2FUI+Experience+Profile%3A+YOUR+NAME) and use [this guide](https://docs.google.com/presentation/d/1YK7HAiW8-XPI57G8LfY2dgjxN7JknTE0262mhcvhLhQ) for help.
 - [ ] Learn about [double diamond](https://nngroup.com/articles/discovery-phase).
-- [ ] Read our [research plan](https://docs.google.com/document/d/1peRWmKWLpYEjqtlszfqmSSpsPm95qagnsFCJdiyereo).
-- [ ] Read our [insights from the stakeholder interview](https://drive.google.com/drive/folders/1pUyX4rNLs0je5XZrcEdC-6n1YLQjONBb).
+- [ ] Listen to the [stakeholder interview](https://drive.google.com/file/d/1npVQG1by8_l5iB7jUmZ9_OzGtQ-6czU0/view?usp=sharing) [(transcript)](https://drive.google.com/file/d/1npVQG1by8_l5iB7jUmZ9_OzGtQ-6czU0).
 
 ### Role: Developer
 - [ ] Read the [research from the previous lead developer](https://github.com/hackforla/design-systems/wiki/Appendix).
