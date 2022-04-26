@@ -51,3 +51,6 @@ Complete the tasks for your role only (you may delete the other tasks that don't
 
 ### Role: Developer
 - [ ] Read the [research from the previous lead developer](https://github.com/hackforla/design-systems/wiki/Appendix).
+
+### Role: PM
+- [ ] Schedule a meeting with Bonnie
