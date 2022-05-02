@@ -1,5 +1,5 @@
 ---
-name: 🧪 Figma Foundations usability test
+name: 🧪 Figma Foundations usability test sessions & analysis
 about: Conduct and analyze a Figma Foundations usability test session.
 title: '[page being tested] participant [#]'
 labels: 'role: research, pts: 2'
