@@ -6,7 +6,7 @@ labels: 'role: research, pts: 2'
 assignees: ''
 
 ---
-#### Documenting this issue
+# Documenting this issue
 - [ ] Choose the milestone `Figma Foundations Usability Tests`
 - [ ] Choose the project `Project Management`
 - [ ] Comment below if you are facilitating this session
