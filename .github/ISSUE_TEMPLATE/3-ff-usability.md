@@ -1,6 +1,6 @@
 ---
 name: 🧪 Figma Foundations usability test
-about: Create this issue if you are preparing to facilitate a Figma Foundations usability test. 
+about: Conduct and analyze a Figma Foundations usability test session.
 title: '[page being tested] participant [#]'
 labels: 'role: research, pts: 2'
 assignees: ''
