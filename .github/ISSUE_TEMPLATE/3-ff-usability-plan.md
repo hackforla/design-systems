@@ -1,5 +1,5 @@
 ---
-name: 🧪 Plan Figma Foundations usability tests
+name: 🧪 FF usability tests planning
 about: Plan the set of 5 usability tests for one of the Figma Foundation pages.
 title: 'Plan the [page being tested] tests'
 labels: 'role: research, pts: 2'
