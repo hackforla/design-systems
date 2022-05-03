@@ -21,6 +21,6 @@ Comment on this issue with this template. Once you finish the template tasks, co
 # Analyzing session with participant [#?]
 After completing these subtasks, scroll up to the top to check off the main task.
 - [ ] Read [article on analyzing usability tests](https://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html)
-- [ ] Watch the recording in Drive and observe participant behavior, and take notes using this template
+- [ ] Watch the recording in Drive and observe participant behavior, and [take notes here](https://www.figma.com/file/l911DJDfDo0Yr70lagjSmx/Usability-test-analysis-FigJam)
 - [ ] Provide feedback on session protocol to next facilitator
 ```
