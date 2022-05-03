@@ -1,5 +1,5 @@
 ---
-name: 🧪 FF usability tests: analysis
+name: 🧪 FF usability tests analysis
 about: Create a issue for analyzing participants 1-5 of one of the FF pages.
 title: '[page being tested] analysis, Participants 1-5'
 labels: 'role: research, pts: 2'
