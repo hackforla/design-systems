@@ -27,6 +27,8 @@ assignees: ''
   - [ ] Select the **label** `role: _` (your role).
   - [ ] Select the **project** `Learning about design systems`.
 - [ ] Read about [what Github is and how it works](https://github.com/hackforla/design-systems/wiki/Issues-101-and-glossary).
+- [ ] At the top right, you'll see some more settings. Click `⭐ Star` at the top right of the page (not the dropdown). The button should turn into `⭐ Starred`. 
+  - [ ] Click `Pins` and select the checkbox `Profile`. This way, you'll be able to find DS via your profile. 
 
 
 # About design systems
