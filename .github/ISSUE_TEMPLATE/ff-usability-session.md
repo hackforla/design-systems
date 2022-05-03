@@ -21,7 +21,7 @@ Project: `Project Management` and milestone: `Figma Foundations Usability Tests`
 Copy the template into a comment.
 
 ```
-# Facilitating session with participant [#]
+# Facilitating session with participant [#?]
 
 After completing these subtasks, scroll up to the top to check off the main task.
 
@@ -44,7 +44,7 @@ After completing these subtasks, scroll up to the top to check off the main task
 ```
 ### Note-taking
 ```
-# Note-taking for session with participant [#]
+# Note-taking for session with participant [#?]
 After completing these subtasks, scroll up to the top to check off the main task.
 
 ### Prep
