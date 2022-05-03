@@ -1,6 +1,6 @@
 ---
 name: 🧪 FF usability tests analysis
-about: Analyzing participants 1-5 of one of the FF pages. --------
+about: Analyzing a participant of one of the FF page tests. --------
 title: '[page being tested] analysis, Participants 1-5'
 labels: 'role: research, pts: 2'
 assignees: ''
@@ -8,14 +8,12 @@ assignees: ''
 ---
 
 Project: `Project Management` and milestone: `Figma Foundations Usability Tests`
-# Analysis of participants 1 through 5
-- [ ] Participant 1 (recording: http...)
-- [ ] Participant 2 (recording: http...)
-- [ ] Participant 3 (recording: http...)
-- [ ] Participant 4 (recording: http...)
-- [ ] Participant 5 (recording: http...)
-
-Copy the template into a comment.
+Recording link: http...
+# Analyzers
+Each analyzer assigned to this participant should add their name as a checkbox item. Paste the analysis template in a comment below. Once you finish the template tasks, come back here and check off your name.
+- [ ] Dongchen
+- [ ] Wataru
+- [ ] ...
 ```
 # Analyzing session with participant [#?]
 After completing these subtasks, scroll up to the top to check off the main task.
