@@ -9,7 +9,7 @@ assignees: ''
 
 Project: `Project Management` and milestone: `Figma Foundations Usability Tests`
 
-Recording link: http... ...
+**Recording link:** http... ...
 
 # Analysis
 Each person assigned to analyze this participant should add their name as a checkbox item. 
