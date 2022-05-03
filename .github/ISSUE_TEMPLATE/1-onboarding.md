@@ -23,12 +23,12 @@ assignees: ''
 - [ ] Set aside at least 6 hours of time a week to attend our [weekly meetings](https://github.com/hackforla/design-systems/wiki/How-to-join-the-HfLA-DS-team) and complete DS work.
 - [ ] In the [#design-systems Slack channel](https://hackforla.slack.com/archives/CH2U1CB9Q), introduce yourself and request access to [our Google Drive](https://drive.google.com/drive/folders/1BE2bwPuBxKWtQPGw-Mn1pEvDGivawaRp?usp=sharing), Google Calendar meetings, and [Figma project](https://www.figma.com/files/project/39879901/Team-project?fuid=913139172394832663). @ the PM and your team lead in your message. This step will be required for you to proceed with some of the tasks.
   - [ ] Once you have access, add yourself to [our roster](https://docs.google.com/spreadsheets/d/1Y65x1bC8tys80Xf7VjC0dVK7kQshlHwbLm6JpvNcMcI).
+- [ ] At the top right, you'll see some more settings. Click `Pins` and select the checkbox `Profile`. This way, you'll be able to find DS via your profile. 
+  - [ ] Click `⭐ Star` at the top right of the page (not the dropdown). The button should turn into `⭐ Starred`. 
 - [ ] To the right of your issue, you'll see a list of settings. Make yourself an **assignee**.
   - [ ] Select the **label** `role: _` (your role).
   - [ ] Select the **project** `Learning about design systems`.
 - [ ] Read about [what Github is and how it works](https://github.com/hackforla/design-systems/wiki/Issues-101-and-glossary).
-- [ ] At the top right, you'll see some more settings. Click `Pins` and select the checkbox `Profile`. This way, you'll be able to find DS via your profile. 
-  - [ ] Click `⭐ Star` at the top right of the page (not the dropdown). The button should turn into `⭐ Starred`. 
 
 # About design systems
 - [ ] Read chapter 1 (pages 18-45) of _[Design Systems](https://www.smashingmagazine.com/provide/eBooks/design-systems.pdf)_ by Alla Kholmatova.
