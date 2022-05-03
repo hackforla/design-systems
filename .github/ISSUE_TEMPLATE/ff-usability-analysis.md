@@ -8,9 +8,10 @@ assignees: ''
 ---
 
 Project: `Project Management` and milestone: `Figma Foundations Usability Tests`
+
 Recording link: http...
-# Analyzers
-Each analyzer assigned to this participant should add their name as a checkbox item. 
+# Analysis
+Each person assigned to analyze this participant should add their name as a checkbox item. 
 - [ ] Dongchen
 - [ ] Wataru
 - [ ] ...
