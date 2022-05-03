@@ -1,6 +1,6 @@
 ---
 name: 🧪 FF usability tests analysis
-about: Analyzing participants 1-5 of one of the FF pages.
+about: Analyzing participants 1-5 of one of the FF pages. --------
 title: '[page being tested] analysis, Participants 1-5'
 labels: 'role: research, pts: 2'
 assignees: ''
