@@ -10,10 +10,12 @@ assignees: ''
 Project: `Project Management` and milestone: `Figma Foundations Usability Tests`
 Recording link: http...
 # Analyzers
-Each analyzer assigned to this participant should add their name as a checkbox item. Paste the analysis template in a comment below. Once you finish the template tasks, come back here and check off your name.
+Each analyzer assigned to this participant should add their name as a checkbox item. 
 - [ ] Dongchen
 - [ ] Wataru
 - [ ] ...
+
+Comment on this issue with this template. Once you finish the template tasks, come back here and check off your name.
 ```
 # Analyzing session with participant [#?]
 After completing these subtasks, scroll up to the top to check off the main task.
