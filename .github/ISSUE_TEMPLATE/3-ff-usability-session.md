@@ -1,7 +1,7 @@
 ---
 name: 🧪 FF usability tests: facilitating
 about: Create a issue for facilitating participants 1-5 of one of the FF pages.
-title: '[page being tested] sessions, Participants 1-5
+title: '[page being tested] sessions, Participants 1-5'
 labels: 'role: research, pts: 1'
 assignees: ''
 
