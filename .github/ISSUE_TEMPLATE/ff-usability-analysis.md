@@ -1,6 +1,6 @@
 ---
 name: 🧪 Analyzing a research session
-about: How to analyze a recording of a research session. Currently customized for the Figma Foundations cover page tests. --------
+about: How to analyze a recording of a research session. This template is currently customized for the Figma Foundations cover page usability tests. --------
 title: '[Thing being tested] analysis - Participant ?'
 labels: 'role: research, pts: 2'
 assignees: ''
