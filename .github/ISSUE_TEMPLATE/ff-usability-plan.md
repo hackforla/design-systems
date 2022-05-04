@@ -1,7 +1,7 @@
 ---
-name: 🧪 FF usability tests planning
-about: Plan the set of 5 usability tests for one of the Figma Foundation pages. --------
-title: 'Plan the [page being tested] tests'
+name: 🧪 Planning a usability test
+about: Directions on how to plan and revise a usability test research plan. Currently customized for the Figma Foundations usability tests. --------
+title: 'Plan the [thing being tested] tests'
 labels: 'role: research, pts: 2'
 assignees: ''
 
