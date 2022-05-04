@@ -1,6 +1,6 @@
 ---
 name: 🧪 Conducting usability tests
-about: Facilitating or taking notes for a usability test. --------
+about: Facilitating or taking notes for a usability test. Currently customized for FF cover page usability tests. --------
 title: 'Conducting [page being tested] usability test - Participant ?'
 labels: 'role: research, pts: 1'
 assignees: ''
