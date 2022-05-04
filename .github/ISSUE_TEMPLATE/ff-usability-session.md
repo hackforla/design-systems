@@ -1,32 +1,19 @@
 ---
-name: 🧪 FF usability tests facilitating
-about: Facilitating or taking notes for participants 1-5 of one of the FF pages. --------
-title: '[page being tested] sessions, Participants 1-5'
+name: 🧪 Conducting usability tests
+about: Facilitating or taking notes for a usability test. --------
+title: 'Conducting [page being tested] usability test - Participant ?'
 labels: 'role: research, pts: 1'
 assignees: ''
 
 ---
-Project: `Project Management` and milestone: `Figma Foundations Usability Tests`
-- [ ] Facilitate session with participant 1 
-  - [ ] Take live notes at the session
-- [ ] Facilitate session with participant 2
-  - [ ] Take live notes at the session
-- [ ] Facilitate session with participant 3 
-  - [ ] Take live notes at the session
-- [ ] Facilitate session with participant 4 
-  - [ ] Take live notes at the session
-- [ ] Facilitate session with participant 5 
-  - [ ] Take live notes at the session
+# Overview
 
-Copy the template into a comment.
+Write about what was changed about the design and research protocol, based on the previous session, when it was discussed, any relevant issues, Google docs, meetings, Figma files, etc.
 
-```
-# Facilitating session with participant [#?]
-
-After completing these subtasks, scroll up to the top to check off the main task.
+# Facilitating 
 
 ### Prep
-- [ ] Review the plan #406 and [usability test session tips](https://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
+- [ ] Review the plan and [usability test session tips](https://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
   - [ ] Read the script out loud. 
   - [ ] Run a pilot with someone on the team pretending to be the participant.
 - [ ] Decide who is going to record the call with Zoom Pro. If there is no Zoom Pro available, use Otter as a backup to transcribe the audio
@@ -41,14 +28,11 @@ After completing these subtasks, scroll up to the top to check off the main task
 ### During
 - [ ] Turn video off when they start sharing their screen.
 - [ ] Remain neutral – you are there to listen and watch. Do not jump in and help participants immediately and do not lead the participant. If the participant asks a question, reply with “What do you think?” or “I am interested in what you would do.” If the participant gives up and asks for help, you must decide whether to end the scenario, give a hint, or give more substantial help.
-```
+
 ### Note-taking
-```
-# Note-taking for session with participant [#?]
-After completing these subtasks, scroll up to the top to check off the main task.
 
 ### Prep
-- [ ] Review the plan #406 and [usability test session tips](https://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
+- [ ] Review the plan and [usability test session tips](https://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
 
 #### Day of
 - [ ] Open Slack to your DMs with the facilitator, and keep it in the background. This is in case you think of questions you want the facilitator to ask the participant, or if anything happens during the session
@@ -58,4 +42,3 @@ After completing these subtasks, scroll up to the top to check off the main task
 ### During
 - [ ] Keep your video off
 - [ ] Remain neutral – you are there to listen and watch. Do not jump in and help participants immediately and do not lead the participant.
-```
