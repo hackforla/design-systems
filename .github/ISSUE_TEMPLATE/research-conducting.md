@@ -1,6 +1,6 @@
 ---
 name: 🧪 Conducting research
-about: Directions on how to facilitate or take notes for a research session. This template is currently customized for the Figma Foundations cover page usability tests. - - - - -
+about: Directions on how to facilitate or take notes for a research session. (This template is currently customized for the Figma Foundations cover page usability tests.) - - - - -
 title: 'Conducting [thing being tested] usability test - Participant ?'
 labels: 'role: research, pts: 1'
 assignees: ''
