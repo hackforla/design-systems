@@ -1,6 +1,6 @@
 ---
 name: 🧪 Planning a usability test
-about: Directions on how to plan and revise a research plan. This template is currently customized for the Figma Foundations cover page usability tests. - - - - -
+about: Directions on how to plan a research study. This template is currently customized for the Figma Foundations cover page usability tests. - - - - -
 title: 'Plan the [thing being tested] tests'
 labels: 'role: research, pts: 2'
 assignees: ''
