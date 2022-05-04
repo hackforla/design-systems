@@ -1,6 +1,6 @@
 ---
 name: 🧪 Conducting usability tests
-about: Facilitating or taking notes for a usability test. Currently customized for FF cover page usability tests. --------
+about: Facilitating or taking notes for a usability test. This template is currently customized for the Figma Foundations cover page usability tests. --------
 title: 'Conducting [thing being tested] usability test - Participant ?'
 labels: 'role: research, pts: 1'
 assignees: ''
