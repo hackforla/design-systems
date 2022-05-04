@@ -1,5 +1,5 @@
 ---
-name: Standard template
+name: 📝 Standard template
 about: Tips for writing a good issue are included inside. The < ! - - and - - > will not display in the actual issue, but you will be able to see it when you edit it. --------
 title: ''
 labels: ''
