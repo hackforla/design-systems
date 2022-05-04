@@ -1,15 +1,16 @@
 ---
 name: Research analysis
-about: Analyzing a recording of a research session. Currently for the FF cover page tests. --------
-title: '[what's being tested] analysis, Participant [#?]'
+about: Analyzing a research session. Currently for the FF cover page tests. --------
+title: '[Thing being tested] analysis - Participant ?'
 labels: 'role: research, pts: 2'
 assignees: ''
 
 ---
 
+- related issue(s): #...
+
 **Recording link:** https://drive.google.com/file/d/1/......
 
-- related issues #[?]
 
 # Assignees
 - [ ] @...
