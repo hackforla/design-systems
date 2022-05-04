@@ -29,7 +29,7 @@ Write about what was changed about the design and research protocol, based on th
 - [ ] Turn video off when they start sharing their screen.
 - [ ] Remain neutral – you are there to listen and watch. Do not jump in and help participants immediately and do not lead the participant. If the participant asks a question, reply with “What do you think?” or “I am interested in what you would do.” If the participant gives up and asks for help, you must decide whether to end the scenario, give a hint, or give more substantial help.
 
-### Note-taking
+# Note-taking
 
 ### Prep
 - [ ] Review the plan and [usability test session tips](https://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
