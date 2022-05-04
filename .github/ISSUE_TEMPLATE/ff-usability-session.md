@@ -1,5 +1,5 @@
 ---
-name: 🧪 Conducting usability tests
+name: 🧪 Conducting research
 about: Directions how how to facilitate or take notes for a research session. This template is currently customized for the Figma Foundations cover page usability tests. - - - - -
 title: 'Conducting [thing being tested] usability test - Participant ?'
 labels: 'role: research, pts: 1'
