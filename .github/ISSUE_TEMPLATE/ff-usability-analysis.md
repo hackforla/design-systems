@@ -1,5 +1,5 @@
 ---
-name: Research analysis
+name: 🧪 Research analysis
 about: Analyzing a research session. Currently for the FF cover page tests. --------
 title: '[Thing being tested] analysis - Participant ?'
 labels: 'role: research, pts: 2'
