@@ -8,7 +8,6 @@ assignees: ''
 ---
 
 ### Drive storage 
-
 - [ ] **Make a copy** of the [previous plan](https://docs.google.com/document/d/1NA_fgcxF1QOAqKTZs6ZOeO_I2ugd-KZ5FvQx_9tF-oE/edit#) 
   - [ ] Comment on this issue with a link to the new copy
   - [ ] Move the file into the Drive folder of the section being tested
@@ -21,4 +20,13 @@ assignees: ''
 - [ ] Incorporate useful feedback from the comments of this issue into the plan
 
 ### Feedback
-- [ ] Each person that wants to leave feedback, write your own comment below.
+- [ ] @ ...
+- [ ] @ ...
+- [ ] @ ...
+
+Make a comment with this template. Once you finish your analysis, come back to the checklist above and check off your name.
+```
+# Leaving feedback on the plan 
+- [ ] Leave comments in the Google Doc
+Summarize your feedback here: ______
+```
