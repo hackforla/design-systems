@@ -1,14 +1,17 @@
 ---
 name: Standard template
-about: Tips for writing a good issue are included
+about: Tips for writing a good issue are included in the body. --------
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-<!--Issue purpose and context. No need to write an essay, but someone new to the project should not be completely lost. @ Mention relevant teammates. Choose labels, project, and milestone.-->
+<!--Issue purpose and context. This should be detailed enough that someone new to the project should not be completely lost. @ Mention relevant teammates. Choose labels, project, and milestone.
+
+- Link other relevant issues in a bullet point.-->
 
 # Action Items
-<!--More detailed background info.-->
-<!--List tasks in chronological order. Link all relevant Google Docs or external resources in context. If you link an issue within a task or bullet point, Github will auto-populate the issue name and status, as well as state `Tracked in #___` at the top.-->
+<!--More detailed background info.
+
+List tasks in chronological order. Link all relevant Google Docs or external resources in context.-->
