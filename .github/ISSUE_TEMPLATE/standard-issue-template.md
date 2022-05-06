@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 <!-- 
-Any text inside <!-- --> will only show up in editing mode. 
+Any text inside HTML comment tags will only show up in editing mode. 
 -->
 
 
