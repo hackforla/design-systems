@@ -2,7 +2,7 @@
 name: 📝 Standard template
 about: Tips for writing a good issue are included inside. --------
 title: ''
-labels: '?'
+labels: '?,'
 assignees: ''
 
 ---
