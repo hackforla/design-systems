@@ -2,7 +2,7 @@
 name: 📝 Standard template
 about: Tips for writing a good issue are included inside. --------
 title: ''
-labels: ''
+labels: '?'
 assignees: ''
 
 ---
@@ -14,7 +14,7 @@ Any text inside HTML comment tags will only show up in editing mode.
 <!-- 
 Issues should have these settings applied:
 ASSIGNEE: who is doing the work 
-LABEL: size = how long the work will take, role = what disclipine/team the work needs to be done by
+LABEL: size = how long the work will take, role = what disclipine/team the work needs to be done by. This issue will automatically have the ? question label applied. Remove it after you've notified the PM of your task.
 PROJECT: which kanban board this will live in as a card. If it's not related to documentation protocol or onboarding, then it likely belongs in "Project Management."
 MILESTONE: the greater context that this issue is part of.
 -->
