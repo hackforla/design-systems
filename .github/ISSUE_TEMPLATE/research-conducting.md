@@ -36,7 +36,7 @@ Write about what was changed about the design and research protocol, based on th
 
 #### Day of
 - [ ] Open Slack to your DMs with the facilitator, and keep it in the background. This is in case you think of questions you want the facilitator to ask the participant, or if anything happens during the session
-- [ ] Have your [note-taking template](https://docs.google.com/spreadsheets/d/1MGU7DhhZmj7pkX9RIv5e8JUfnu78EWPU) ready
+- [ ] Have your [note-taking template](https://docs.google.com/spreadsheets/d/18ColipRIA1ugKp9u6BYS7rCrf8-ybiskpb428aJqkys) ready
 - [ ] Be present in the meeting room 10 minutes before. Wait 15 minutes if participant is late
 
 ### During
