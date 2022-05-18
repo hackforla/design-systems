@@ -1,6 +1,6 @@
 ---
 name: 🧪 Conducting research
-about: Directions on how to facilitate or take notes for a research session. (This template is currently customized for the Figma Foundations cover page usability tests.) - - - - -
+about: Directions on how to facilitate or take notes for a research session. (This template is currently customized for the HfLA Figma Kit cover page usability tests.) - - - - -
 title: 'Conducting [thing being tested] usability test - Participant ?'
 labels: 'role: research, pts: 1'
 assignees: ''
@@ -18,7 +18,7 @@ Write about what was changed about the design and research protocol, based on th
   - [ ] Run a pilot with someone on the team pretending to be the participant.
 - [ ] Decide who is going to record the call with Zoom Pro. If there is no Zoom Pro available, use Otter as a backup to transcribe the audio
 - [ ] When done, comment below the [DS Google Drive](https://drive.google.com/drive/folders/0ACLGQ8FFW2MCUk9PVA) link of the recording file
-  - [ ] Update [recruiting spreadsheet](https://docs.google.com/spreadsheets/d/1wrx3dQXbti8kHvRdQFHuarW34DVnj0LNBs5nr3HDfBg)
+  - [ ] Update [recruiting spreadsheet](https://docs.google.com/spreadsheets/d/1KEf3kw9SRUqYAVtcDTTiWmg5TcMyeWb5MLU4oHETwVk)
 
 #### Day of
 - [ ] Send a reminder to the participant via Slack direct message.
