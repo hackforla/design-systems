@@ -25,6 +25,7 @@ assignees: ''
   - [ ] Once you have access, add yourself to [our roster]([https://docs.google.com/spreadsheets/d/1Y65x1bC8tys80Xf7VjC0dVK7kQshlHwbLm6JpvNcMcI](https://docs.google.com/spreadsheets/d/1JtJGxSpVQR3t3wN8P5iHtLZ-QEk-NtewGurNTikw1t0/edit#gid=1544900430)).
 
 ### Exploring GitHub
+You won't be able to do some of these tasks until we update your Github account's permissions.
 - [ ] At the top right of your issue, or any other webpage under `hackforla/design-systems`, you'll see a row of settings. Click `Pins` and select the checkbox `Profile`. This way, you'll be able to find DS via your profile. 
   - [ ] Click `⭐ Star` at the top right of the page (not the dropdown). The button should turn into `⭐ Starred`. 
 - [ ] To the right of your issue, you'll see a list of settings. Make yourself an **assignee**.
