@@ -21,7 +21,7 @@ assignees: ''
 # Logistics 
 - [ ] Complete [Hack for LA onboarding](https://www.hackforla.org/getting-started).
 - [ ] Set aside at least 6 hours of time a week to attend our [weekly meetings](https://github.com/hackforla/design-systems/wiki/How-to-join-the-HfLA-DS-team) and complete DS work.
-- [ ] In the [#design-systems Slack channel](https://hackforla.slack.com/archives/CH2U1CB9Q), introduce yourself and request access to [our Google Drive](https://drive.google.com/drive/folders/1BE2bwPuBxKWtQPGw-Mn1pEvDGivawaRp?usp=sharing), Google Calendar meetings, and [Figma project](https://www.figma.com/files/project/39879901/Team-project?fuid=913139172394832663). @ the PM and your team lead in your message. 
+- [ ] In the [#design-systems Slack channel](https://hackforla.slack.com/archives/CH2U1CB9Q), introduce yourself and request access to [our Google Drive](https://drive.google.com/drive/folders/1BE2bwPuBxKWtQPGw-Mn1pEvDGivawaRp?usp=sharing), Google Calendar meetings, [Figma project](https://www.figma.com/files/project/39879901/Team-project?fuid=913139172394832663), and Github repo. @ the PM and your team lead in your message. 
   - [ ] Once you have access, add yourself to [our roster]([https://docs.google.com/spreadsheets/d/1Y65x1bC8tys80Xf7VjC0dVK7kQshlHwbLm6JpvNcMcI](https://docs.google.com/spreadsheets/d/1JtJGxSpVQR3t3wN8P5iHtLZ-QEk-NtewGurNTikw1t0/edit#gid=1544900430)).
 
 ### Exploring GitHub
