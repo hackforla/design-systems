@@ -31,7 +31,7 @@ You won't be able to do some of these tasks until we update your Github account'
 - [ ] To the right of your issue, you'll see a list of settings. Make yourself an **assignee**.
   - [ ] Select the **label** `role: _` (your role).
   - [ ] Select the **project** `Learning about design systems`.
-- [ ] Read about [what Github is and how it works](https://github.com/hackforla/design-systems/wiki/Issues-101-and-glossary).
+- [ ] Read about [what Github is and how it works](https://github.com/hackforla/design-systems/wiki/Using-GitHub).
 
 # About design systems
 - [ ] Read chapter 1 (pages 18-45) of _[Design Systems](https://www.smashingmagazine.com/provide/eBooks/design-systems.pdf)_ by Alla Kholmatova.
