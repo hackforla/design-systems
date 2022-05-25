@@ -50,7 +50,7 @@ Complete the tasks for your role only (you may delete the other tasks that don't
 - [ ] Watch [Figma's tutorials](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma) on using Figma.
 
 ### Role: Research
-- [ ] Submit [this issue template](https://github.com/hackforla/UI-UX/issues/new?assignees=&labels=experience+profile&template=template-for-UX-Experience-Profile.md&title=UX%2FUI+Experience+Profile%3A+YOUR+NAME) and use [this guide](https://docs.google.com/presentation/d/1YK7HAiW8-XPI57G8LfY2dgjxN7JknTE0262mhcvhLhQ) for help.
+- [ ] Click the green button `Submit new issue` on [this page](https://github.com/hackforla/UI-UX/issues/new?assignees=&labels=experience+profile&template=template-for-UX-Experience-Profile.md&title=UX%2FUI+Experience+Profile%3A+YOUR+NAME). This issue will generate under HfLA's UX/UI community of practice and is meant to track the skills you learn during your time at HfLA.
 - [ ] Learn about [double diamond](https://nngroup.com/articles/discovery-phase).
 - [ ] Listen to the [stakeholder interview](https://drive.google.com/file/d/1npVQG1by8_l5iB7jUmZ9_OzGtQ-6czU0/view?usp=sharing) [(transcript)](https://drive.google.com/file/d/1npVQG1by8_l5iB7jUmZ9_OzGtQ-6czU0).
 
