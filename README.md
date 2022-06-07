@@ -2,7 +2,7 @@
 ### [📌 Main Kanban board](https://github.com/hackforla/design-systems/projects/1) 
 ### [🪧 Milestones](https://github.com/hackforla/design-systems/milestones)
 ### [👋 Contact our Product Manager](https://hackforla.slack.com/archives/CH2U1CB9Q) if you're interested in joining the team
-- Once you've gotten the go-ahead to onboard, [go to this page](https://github.com/hackforla/design-systems/issues/new/choose) and click the green `Get Started` button for your onboarding issue
+  - Once you've gotten the go-ahead to onboard, [go to this page](https://github.com/hackforla/design-systems/issues/new/choose) and click the green `Get Started` button for your onboarding issue
 
 # About
 As Hack for LA continues to scale up, documentation standards need to be made consistent across the organization. Our team seeks to help every HfLA team create their own design system that is robust, scalable, and based on sound design system paradigms.
