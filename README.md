@@ -1,5 +1,5 @@
 # Links 
-### [📌 Main Kanban board](https://github.com/hackforla/design-systems/projects/1) 
+### [📌 Kanban boards](https://github.com/hackforla/design-systems/projects?type=classic) 
 ### [🪧 Milestones](https://github.com/hackforla/design-systems/milestones)
 ### [👋 Contact our Product Manager](https://hackforla.slack.com/archives/CH2U1CB9Q) if you're interested in joining the team
   - Once our PM has approved you, [go to this page](https://github.com/hackforla/design-systems/issues/new/choose) and follow the directions for the **Onboarding** issue
