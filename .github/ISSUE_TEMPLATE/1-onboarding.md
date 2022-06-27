@@ -1,12 +1,12 @@
 ---
 name: ❗ Onboarding
-about: DIRECTIONS- click the green button "Submit new issue" 🟩 generate a checklist of onboarding tasks you must complete. ------------------
+about: DIRECTIONS- click the green button "Submit new issue" 🟩 to generate a checklist of onboarding tasks you must complete. No need to type anything into the box. ------------------
 title: 'My 1st Issue! Learn about design systems and using Github'
 labels: 'pts: 1'
 assignees: ''
 
 ---
-<!-- This is your onboarding checklist! No need to type anything here :) -->
+<!-- This is your onboarding checklist! No need to type anything here. -->
 
 
 
