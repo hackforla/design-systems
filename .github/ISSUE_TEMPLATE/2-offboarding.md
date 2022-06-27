@@ -1,6 +1,6 @@
 ---
 name: ❤️ Offboarding from DS
-about: If you're leaving the project, this issue will help you tie up loose ends.
+about: :If you're leaving the project, this issue will help you tie up loose ends.
 title: 'Offboarding'
 labels: 'size: 1 pt'
 assignees: ''
