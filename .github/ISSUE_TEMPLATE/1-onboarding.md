@@ -1,12 +1,11 @@
 ---
 name: ❗ Onboarding to join our team
-about: ...
 title: 'My 1st Issue! Learn about design systems and using Github'
 labels: 'pts: 1'
 assignees: ''
 
 ---
-<!-- No need to type anything here. Click the green button "Submit new issue" to generate your onboarding checklist. -->
+<!-- Click the green button "Submit new issue" to generate your onboarding checklist. -->
 
 
 
