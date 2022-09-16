@@ -46,7 +46,6 @@ Complete the tasks for your role only (you may delete the other tasks that don't
 - [ ] Click the green button `Submit new issue` on [this page](https://github.com/hackforla/UI-UX/issues/new?assignees=&labels=experience+profile&template=template-for-UX-Experience-Profile.md&title=UX%2FUI+Experience+Profile%3A+YOUR+NAME). This issue will generate under HfLA's UX/UI community of practice and is meant to track the skills you learn during your time at HfLA.
 - [ ] Read [HfLA’s Design System Guide for Designers](https://docs.google.com/document/d/14BZYFEa5s5FESeASNorEDLH6zEW0LTYcpD1NVyE66iM/edit).
 - [ ] Learn about [double diamond](https://medium.com/design-council/the-double-diamond-15-years-on-8c7bc594610e).
-- [ ] Review [this Figma file](https://www.figma.com/file/mmvbxZ6lctjQneEeqTjC8O/UX%2FUI-Discovery-FigJam?node-id=0%3A1) to further understand Stage 2A of the project.
 - [ ] Watch [Figma's tutorials](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma) on using Figma.
 
 ### Role: Research
