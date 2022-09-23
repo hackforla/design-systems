@@ -1,7 +1,7 @@
 # Links 
 ### [👋 Contact our Product Manager](https://hackforla.slack.com/archives/CH2U1CB9Q) if interested in joining us
 ### [✅ Start onboarding](https://github.com/hackforla/design-systems/issues/new/choose) if our PM has met with you 
-### [📌 See our Kanban boards](https://github.com/hackforla/design-systems/projects?type=classic) with all our issues
+### [📌 See our main Kanban board](https://github.com/hackforla/design-systems/projects/1) with all our issues
 ### [🪧 Read about our milestones](https://github.com/hackforla/design-systems/milestones) of past and present intiatives
 
 # About
