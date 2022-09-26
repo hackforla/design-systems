@@ -1,7 +1,7 @@
 ---
 name: 🧪 Conducting research
 about: Directions on how to facilitate or take notes for a research session. (This template is currently customized for the HfLA Figma Kit cover page usability tests.) - - - - -
-title: 'Conducting [thing being tested] usability test - Participant ?'
+title: 'Conducting [thing being tested] usability test - Participant ?
 labels: 'role: research, pts: 1'
 assignees: ''
 
