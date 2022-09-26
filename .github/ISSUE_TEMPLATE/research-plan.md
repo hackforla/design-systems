@@ -2,7 +2,7 @@
 name: 🧪 Planning research
 about: Directions on how to plan a research study. (This template is currently customized for the HfLA Figma Kit cover page usability tests.) - - - - -
 title: 'Plan the [thing being tested] tests'
-labels: 'role: research, pts: 2'
+labels: 'role: research, pts: 2
 assignees: ''
 
 ---
