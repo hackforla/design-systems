@@ -42,13 +42,14 @@ You won't be able to do some of these tasks until we update your Github account'
 Complete the tasks for your role only (you may delete the other tasks that don't apply).
 - [ ] Once you're completely done, comment on this issue and @ the PM or your team lead.
 
-### Role: Design
+### Designers
 - [ ] Click the green button `Submit new issue` on [this page](https://github.com/hackforla/UI-UX/issues/new?assignees=&labels=experience+profile&template=template-for-UX-Experience-Profile.md&title=UX%2FUI+Experience+Profile%3A+YOUR+NAME). This issue will generate under HfLA's UX/UI community of practice and is meant to track the skills you learn during your time at HfLA.
 - [ ] Read [HfLA’s Design System Guide for Designers](https://docs.google.com/document/d/14BZYFEa5s5FESeASNorEDLH6zEW0LTYcpD1NVyE66iM/edit).
+- [ ] Read about the differences between frames and groups in Figma. [part 1](https://www.figma.com/best-practices/groups-versus-frames/) [part 2](https://www.figma.com/best-practices/groups-versus-frames/frames/) [part 3](https://www.figma.com/best-practices/groups-versus-frames/summary/)
 - [ ] Learn about [double diamond](https://medium.com/design-council/the-double-diamond-15-years-on-8c7bc594610e).
 - [ ] Watch [Figma's tutorials](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma) on using Figma.
 
-### Role: Research
+### Researchers
 - [ ] Click the green button `Submit new issue` on [this page](https://github.com/hackforla/UI-UX/issues/new?assignees=&labels=experience+profile&template=template-for-UX-Experience-Profile.md&title=UX%2FUI+Experience+Profile%3A+YOUR+NAME). This issue will generate under HfLA's UX/UI community of practice and is meant to track the skills you learn during your time at HfLA.
 - [ ] Learn about [double diamond](https://nngroup.com/articles/discovery-phase).
 - [ ] Listen to the [stakeholder interview](https://drive.google.com/file/d/1npVQG1by8_l5iB7jUmZ9_OzGtQ-6czU0/view?usp=sharing) [(transcript)](https://drive.google.com/file/d/1npVQG1by8_l5iB7jUmZ9_OzGtQ-6czU0).
