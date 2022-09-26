@@ -2,7 +2,7 @@
 name: 🧪 Analyzing research
 about: Directions on how to analyze a research session. (This template is currently customized for the Figma Foundations cover page usability tests.) - - - - -
 title: '[Thing being tested] analysis - Participant ?'
-labels: 'role: research, pts: 2'
+labels: 'role: research, pts: 2
 assignees: ''
 
 ---
