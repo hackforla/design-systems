@@ -17,41 +17,52 @@ assignees: ''
 
 
 
+You'll need to complete [Hack for LA onboarding](https://www.hackforla.org/getting-started) before beginning this checklist. If you're deciding between HFLA teams, you can request in our Slack channel to observe one of our all-hands meetings first.
 
-# Logistics 
-You'll need to complete [Hack for LA onboarding](https://www.hackforla.org/getting-started) before beginning this checklist.
-- [ ] In the [#design-systems Slack channel](https://hackforla.slack.com/archives/CH2U1CB9Q), introduce yourself and request access to [our Google Drive](https://drive.google.com/drive/folders/1BE2bwPuBxKWtQPGw-Mn1pEvDGivawaRp?usp=sharing), Google Calendar meetings, [Figma project](https://www.figma.com/files/project/39879901/Team-project?fuid=913139172394832663), and Github repo. @ the PM and your team lead in your message. Until you have access, some of the following links will not work.
-- [ ] Accept the Google Calendar invites to our recurring meetings. You do not have to go to meetings for a role that isn't yours (e.g., designers don't have to go to research team meetings).
-- [ ] Add yourself to [our roster](https://docs.google.com/spreadsheets/d/1JtJGxSpVQR3t3wN8P5iHtLZ-QEk-NtewGurNTikw1t0/edit#gid=1544900430).
-- [ ] Update your Slack profile in the HFLA workspace. Under **Title**, type "`Role`, Design Systems" (for example "UX Writer, Design Systems"). Under **Pronunciation**, type your pronouns and any tips on how to say your name. (Bonus: adding your name pronunciation into your Zoom profile [in Zoom settings under "display name"](https://us05web.zoom.us/profile) is recommended.) Under **Status**, type in the days that you are generally free to work / be contacted, i.e. "Tuesday afternoons," "weekdays after 6pm," etc. 
-- [ ] In Slack, send a direct message to your team lead to schedule a recurring 1-on-1 meeting.
+# Slack
+- [x] Introduce yourself in the [#design-systems Slack channel](https://hackforla.slack.com/archives/CH2U1CB9Q). Request a recurring 1-on-1 meeting with your team lead, and that the PM grant you access to [our Google Drive](https://drive.google.com/drive/folders/1BE2bwPuBxKWtQPGw-Mn1pEvDGivawaRp?usp=sharing), Google Calendar meetings, [Figma project](https://www.figma.com/files/project/39879901/Team-project?fuid=913139172394832663), and Github repo. (Until you have access, some of the following links will not work.) @ the PM and your team lead in this message. 
+  - [ ] Check your calendar and accept the invites to our recurring meetings. You might occasionally be asked to attend a meeting outside of your function.
+- [ ] Update your Slack profile in the HFLA workspace. Under **Title**, type in your role and the name of the team (i.e. "UX Writer, Design Systems"). 
+  - [ ] Under **Pronunciation**, type in any pronunciation guidelines and your preferred pronouns. 
 
-### GitHub
+<img width="500" alt="Screen Shot 2022-11-08 at 6 12 39 PM" src="https://user-images.githubusercontent.com/97491788/200696071-b9f6dfe4-5af6-4d4a-8a27-b38c61305ff9.png">
+
+# GitHub
 Doing the following tasks on desktop is recommended.
+
+### Profile settings 
+<img width="300" alt="Screen Shot 2022-08-29 at 1 30 41 PM" src="https://user-images.githubusercontent.com/97491788/187262497-40a362d4-b91b-4eb0-8dc3-804aa8afdc1a.png">
+
 - [ ] At the top right of this very webpage, you'll see a row of dropdown menus. Click "Pins" and select the "Profile" checkbox. Now, you and all Github members will be able to find DS via your profile (`github.com/yourusername`). 
-  - [ ] Click "⭐ Star" at the top right of the page (not the dropdown). The button should turn into `⭐ Starred`. Now, people will be able to find your profile from our repository's homepage.
-- [ ] Below the Pins and Star settings, you'll see a list of more settings, starting with "**Assignee**" at the top. Add your Github handle as an assignee.
+  - [ ] Click "⭐ Star" so the button turns into `⭐ Starred`. Now, people will be able to find your profile from [our repository's homepage](https://github.com/hackforla/design-systems).
+
+<img width="150" alt="Screen Shot 2022-08-29 at 1 58 38 PM" src="https://user-images.githubusercontent.com/97491788/187267671-c7f9e82a-de2f-49f2-9b2d-2a22b5ce1d15.png">
+
+### Issue settings
+- [ ] Below the Pins and Star settings, you'll see a list of more settings, starting with "**Assignee**" at the top. Add your Github username as an assignee.
   - [ ] Select the **label** `role: _` (your role).
   - [ ] Select the **project** `Learning about design systems`.
+  - [ ] Click `🚧 BACKLOG` to open a dropdown, and select `✈️ IN PROGRESS`.
+### About project documentation
+<img width="500" alt="Screen Shot 2022-08-29 at 2 26 29 PM" src="https://user-images.githubusercontent.com/97491788/187272041-a7861dab-b3b9-4636-8873-f1e100e318b9.png">
 
-# About what our team does
+- [ ] At the top of this page, find "Wiki." Under "Pages," read the "Documentation 101" article about how project documentation works.
+- [ ] At the very top of this page, find "Issues." Here you'll be able to find all issues that you've created or been assigned to, regardless of which repository it's a part of.
+# Drive
+- [ ] In [our Google Drive folder](https://drive.google.com/drive/folders/1BE2bwPuBxKWtQPGw-Mn1pEvDGivawaRp), add yourself to our roster spreadsheet.
+- [ ] Under "Tutorials", find the PDF of Alla Kholmatova's _Design Systems_ book and read chapter 1 (pages 18-45).
+- [ ] Under "User Insights" > "Stakeholder", listen to the stakeholder interview. You can follow along with the transcript.
+# Other readings
 - [ ] Learn about [user-centered design](https://www.nist.gov/itl/iad/visualization-and-usability-group/human-factors-human-centered-design) (more [terms and definitions](https://www.iso.org/obp/ui/#iso:std:iso:9241:-210:ed-2:v1:en)) and [task analysis](https://www.youtube.com/watch?v=tEx8R4ePwmk).
-- [ ] Read chapter 1 (pages 18-45) of [_Design Systems_ by Alla Kholmatova](https://www.smashingmagazine.com/provide/eBooks/design-systems.pdf). <!--  - [ ] Take notes as you read, and paste your notes in the [discussion thread](https://github.com/hackforla/design-systems/discussions/198).-->
-- [ ] Listen to the [stakeholder interview](https://drive.google.com/file/d/1npVQG1by8_l5iB7jUmZ9_OzGtQ-6czU0/view?usp=sharing) ([transcript](https://drive.google.com/file/d/1npVQG1by8_l5iB7jUmZ9_OzGtQ-6czU0)).
-- [ ] Read about [what Github is and how it works](https://github.com/hackforla/design-systems/wiki/Using-GitHub).
-
-# Role-specific tasks
-Find your role, and only complete the tasks under your role.
-- [ ] Once you're completely done, comment on this issue and @ the PM or your team lead.
-
-### Designers and Researchers
-- [ ] Click the green button `Submit new issue` on [this page](https://github.com/hackforla/UI-UX/issues/new?assignees=&labels=experience+profile&template=template-for-UX-Experience-Profile.md&title=UX%2FUI+Experience+Profile%3A+YOUR+NAME). This issue will generate under HfLA's UX/UI community of practice and is meant to track the skills you learn during your time at HfLA. <!-- - [ ] Read [HfLA’s Design System Guide for Designers](https://docs.google.com/document/d/14BZYFEa5s5FESeASNorEDLH6zEW0LTYcpD1NVyE66iM/edit). -->
-- [ ] If you're a designer, watch Figma's [official Figma tutorials](https://www.youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4). Read about the [differences between frames and groups](https://www.figma.com/best-practices/groups-versus-frames/) ([part 2](https://www.figma.com/best-practices/groups-versus-frames/frames/), [part 3](https://www.figma.com/best-practices/groups-versus-frames/summary/)).
-- [ ] If you're a researcher, watch Figma's [official Figjam tutorials](https://www.youtube.com/playlist?list=PLXDU_eVOJTx7yUfX46VEB3VafmkdNpZhq).
-
-### Developer
+- [ ] Watch Figma's [official Figma tutorials](https://www.youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4). Depending on what role you are, you may need to watch more or less of the videos to get a sense of how to navigate Figma.
+- [ ] Read about the [differences between frames and groups](https://www.figma.com/best-practices/groups-versus-frames/) ([part 2](https://www.figma.com/best-practices/groups-versus-frames/frames/), [part 3](https://www.figma.com/best-practices/groups-versus-frames/summary/)). 
+### If you are a UXer
+- [ ] Click the green button `Submit new issue` on [this page](https://github.com/hackforla/UI-UX/issues/new?assignees=&labels=experience+profile&template=template-for-UX-Experience-Profile.md&title=UX%2FUI+Experience+Profile%3A+YOUR+NAME). This issue will generate under HfLA's UX/UI community of practice and is meant to track the skills you learn during your time at HfLA.
+### If you are a developer
 - [ ] Read the [research from the previous lead developer](https://github.com/hackforla/design-systems/wiki/Appendix).
-
-### Product manager
+### If you are a product manager
 - [ ] Schedule a meeting with Bonnie.
 - [ ] Read [this NNG article on the complexity of defining PM responsibilities](https://www.nngroup.com/articles/pm-ux-different-views-of-responsibilities/).
+
+# Yay!
+- [ ] Once you're completely done with all action items on this issue, add a comment below and @ the PM and your team lead.
