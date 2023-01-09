@@ -13,7 +13,7 @@ body:
     id: action-items
     attributes:
       label: Action Items
-      description: List the steps to be completed for example research or reporting. Think of this as a checklist of the smaller tasks you need to do for now. Note: If the steps can be divided into tasks for more than one person, we recommend dividing it up into separate issues.
+      description: "List the steps to be completed for example research or reporting. Think of this as a checklist of the smaller tasks you need to do for now. Note: If the steps can be divided into tasks for more than one person, we recommend dividing it up into separate issues."
     validations:
       required: true
   - type: textarea
