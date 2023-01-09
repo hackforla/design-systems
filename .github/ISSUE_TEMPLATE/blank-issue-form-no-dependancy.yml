@@ -1,5 +1,5 @@
-name: 'Blank Issue Form with No Dependency'
-description: 'Standard HackforLA issue form with no dependency'
+name: '📝 Blank Issue Form'
+description: 'Standard template for HackforLA. Tips for writing a good issue are included inside.'
 
 body:
   - type: input
