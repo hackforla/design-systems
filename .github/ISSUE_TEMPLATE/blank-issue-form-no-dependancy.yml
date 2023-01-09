@@ -23,6 +23,3 @@ body:
       description: "Provide links to resources or instructions that may help with this issue. This can include files to be worked on, external sites with solutions, documentation, etc."
     validations:
       required: true
- - type: markdown
-    attributes:
-      value: "# Additional Instructions"
