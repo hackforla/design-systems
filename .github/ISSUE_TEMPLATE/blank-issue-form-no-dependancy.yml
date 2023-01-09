@@ -23,3 +23,11 @@ body:
       description: "Provide links to resources or instructions that may help with this issue. This can include files to be worked on, external sites with solutions, documentation, etc."
     validations:
       required: true
+ - type: markdown
+    attributes:
+      value: "# Additional Instructions"  
+  - type: markdown
+    attributes:
+      value: |
+        1. Add assignee(s), label(s) (how long the work will take, what skillset is required), project(s) (which Kanban board), and milestone (the greater context that this issue is part of). This issue will automatically have the ? question label applied. Remove it after you've notified the PM or the leads of your task.
+        2. After submitting this issue and as you complete the tasks, make comments adding your thought process, i.e., "Teammate x and I collaborated on this task in this Figma file: http... We decided that the most important takeaways from the participant 1 session was y. Based on y, we recommend design changes a, b, and c, because... Update, we discussed a, b, and c in the all-hands meeting last week and our recommendations are set to be completed next month, and is being documented in issue.
