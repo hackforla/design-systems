@@ -10,9 +10,10 @@ body:
     validations:
       required: true
   - type: textarea
-    id: dependency-explanation
+    id: background
+    description: " OPTIONAL: When documenting your work for future reference, TELL A STORY of your work's purpose and context. Make your summary detailed enough that someone unfamiliar to your work would be able to follow along. Put yourself in the shoes of a hiring manager in an interview, or a newbie to the team. Link other relevant issues with # and mention relevant teammates with @."
     attributes:
-      label: If Yes, please explain
+      label: Background
   - type: textarea
     id: action-items
     attributes:
