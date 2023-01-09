@@ -9,7 +9,8 @@ body:
       description: Clearly state the purpose of this issue in 2 sentences or less. This should be in the form of a user story and why we are doing this. We need to do x for y reason.
     validations:
       required: true
-    id: action-items
+     - type: textarea
+     id: action-items
     attributes:
       label: Action Items
       description: "List the the steps to be completed for example research or reporting. Think of this as a checklist of the smaller tasks you need to do for now. Note: If the steps can be divided into tasks for more than one person, we recommend dividing it up into separate issues."
